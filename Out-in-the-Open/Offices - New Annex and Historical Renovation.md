@@ -200,12 +200,12 @@ To address [XXX]'s potential concerns, if any, we would like to propose the foll
 
 ####Fee Proposal Options: Hourly rates with a not-to-exceed fee
 
-|-|Approach (A)|Approach (B)|Approach (C)|Estimated Percentage of Fees
-|---|---|---|---|
+|-|Approach (A)|Approach (B)|Approach (C)|Estimated Percentage of Fees|
+|---|---|---|---|---|
 | **Architecture** <br> [OpeningDesign](http://openingdesign.com)|
 |Level 1 |$80/HR|$95/HR|$110/HR|53%|
 |Level 2 | $65/HR|$80/HR|$95/HR|23%|
-| **Historic Preservation Consultant**| 
+| **Historic Preservation Consultant**| ||
 |Level 1|$105/HR|$105/HR|$105/HR|5%|
 |Level 2 | $75/HR|$75/HR|$75/HR|6%|
 | **Structural Engineer Consultant**| 
