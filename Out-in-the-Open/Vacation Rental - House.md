@@ -171,7 +171,7 @@ To address your potential concerns, if any, we would like to offer the following
 ---
 
 |-|Approach (A)|Approach (B)|Approach (C)|A Rough<br>Estimated<br>Percentage<br> of Fees
-|---|---|---|---|
+|---|---|---|---|---|
 | **Architecture** <br> [OpeningDesign](http://openingdesign.com)|
 |Level 1 |$70/HR|$80/HR|$100/HR|65%|
 |Level 2 | $55/HR|$65/HR|$75/HR|25%|
