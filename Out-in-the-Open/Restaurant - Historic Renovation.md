@@ -75,16 +75,9 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
 
 The current projected budget is 2.6 Million. 
 
-
-
-
-<br>
-
 ---
 
-
 ## Phases & Scope of Services
-
 
 * **Phase 1 - Programming** 
 *(approximate duration/fee: 2 weeks / 5% )*
@@ -237,14 +230,19 @@ To address _____'s potential concerns, if any, we would like to offer the follow
 > 	- Any prior emails, or any emails between _____, OpeningDesign, or any other parties during the duration of the project, **WILL NOT** be shared publicly.
 > 	- Also, we will not make public anything that _____ explicitly indicates should be kept private.
 
-<br>
-<br>
-
 ---
+<br>
+### Part 1: Fee Proposal
 
-### Not-to-Exceed Fee Proposal Options (**A**, **B**, or **C**):
+As is typical with the initial phases of a building project, the design is often too nebulous to determine a realistic ‘lump-sum’ and/or not-to-exceed maximum fee.  In that light, we propose a two part fee contract whereby the first part will be a an hourly rate proposal for approximately a fifth (1/5th) of the project’s schedule--that is, the early 1)Programming and 2)Schematic Design Phases of the project.  
+
+For the second part, when the extent of the scope is better defined, we propose to continue with our hourly fees, but amend the contract ***(Part 2, below)*** by adding a not-to-exceed maximum fee.  This fee will be a fixed percentage of final construction costs.
 
 
+
+### Part 2: Not-to-Exceed Fee Proposal Options (**A**, **B**, or **C**):
+
+```Please note, the not-to-exceed fees below were established at the end of the 1) Programming and 2) Schematic Phases.```
 
 |-|Approach (A)|Approach (B)|Approach &#40;C)|
 |---|---|---|---|
@@ -252,9 +250,13 @@ To address _____'s potential concerns, if any, we would like to offer the follow
 |Assuming estimated construction <br>costs of **$2,000,000**|$180,000|$230,000|$260,000|
 
 
+
+
 > *Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively. 
 > 
-> The **Hourly Rates**, called out below, will apply until this not-to-exceed fee is reached.
+> The **Hourly Rates**called out below (which are well below what we see currently in the market), will apply until this not-to-exceed fee is reached.
+>
+>By using hourly rates and a not-to-exceed fees based on percentages of construction, we have found this to be a win-win for both parties.  The design professionals are given a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.
 
 ---
 
@@ -262,32 +264,32 @@ To address _____'s potential concerns, if any, we would like to offer the follow
 
 ---
 
-|Role|Hourly Rate|A Rough<br>Estimated<br>Percentage<br> of Fees|
+|Role|Approach (A)|Approach (B)|Approach &#40;C)|A Rough<br>Estimated<br>Percentage<br> of Fees|
 |---|---|---|---|---|
 | **Architecture** <br> [OpeningDesign](http://openingdesign.com)|
-|Role Level 1 |$70/HR|45%|
-|Role Level 2 | $55/HR|10%|
+|Role Level 1 |$75/HR|$90/HR|$105/HR|45%|
+|Role Level 2 | $55/HR|$65/HR|$75/HR|10%|
 | **Historic Preservation Consultant**<br> [Preserve, LLC](http://www.preservellc.com/)| ||
-|Role Level 1|$105/HR|5%|
-|Role Level 2 | $75/HR|10%|
+|Role Level 1|$105/HR|$110/HR|$120/HR|5%|
+|Role Level 2 | $75/HR|$85/HR|$95/HR|10%|
 | **Mech/Plumbing Engineer and Contractor** <br>*(for design & pre-construction services only)*<br> [Lake Country Heating & Cooling ](http://www.lakecountryhvac.com/)| 
-|Role Level 1 |$80/HR|5%|
+|Role Level 1 |$80/HR|$90/HR|$100/HR|5%|
 | **M/E/P Modeling & Drafting**<br>[Desapex](_____)| 
-|Role Level 1 |$35/HR|5%|
-|Role Level 2 |$25/HR|5%|
-| **Kitchen Consultant**<br>[Kiche](https://www.kiche.com/)| 
-|Role Level 1 |$150/HR|5%|
-|Role Level 2 |$90/HR|5%|
+|Role Level 1 |$35/HR|$50/HR|$75/HR|5%|
+|Role Level 2 |$25/HR|$40/HR|$60/HR|5%|
+| <br><br><br><br><br><br><br>**Kitchen Consultant**<br>[Kiche](https://www.kiche.com/)| 
+|Role Level 1 |$150/HR|$150/HR|$150/HR|5%|
+|Role Level 2 |$90/HR|$90/HR|$90/HR|5%|
 | **Electrical Contractor** <br> *(for pre-construction services only)*<br> [Jefferson Current Electric](http://jeffersoncurrentelectric.com/)| 
-|Role Level 1 |$75/HR|1%|
+|Role Level 1 |$75/HR|$85/HR|$95/HR|1%|
 | **Structural Engineer Consultant**<br>[Ntrive](http://ntrive.com/)| | |
-|Role Level 1 |$170/HR|0.5%|
-|Role Level 2 |$125/HR|1%|
-|Role Level 3 |$100/HR|0%|
-|Role Level 4 |$85/HR|0.5%|
-| **Additional Consultants**<br>• Lighting<br>• Fire Alarm and Audio/Visual<br>• Building Envelope Specialist<br>• Specification Writer<br>• Door Hardware Consultant<br>• Security Consultant||2%|
+|Role Level 1 |$170/HR|$170/HR|$170/HR|0.5%|
+|Role Level 2 |$125/HR|$125/HR|$125/HR|1%|
+|Role Level 3 |$100/HR|$100/HR|$100/HR|0%|
+|Role Level 4 |$85/HR|$85/HR|$85/HR|0.5%|
+| **Additional Consultants**<br>• Lighting<br>• Fire Alarm and Audio/Visual<br>• Building Envelope Specialist<br>• Specification Writer<br>• Door Hardware Consultant<br>• Security Consultant||||2%|
 ||
-|**TOTAL**||100%|
+|**TOTAL**||||100%|
 *Consultant expenses will include an **additional 10%** to cover in-house administration, handling, financing, and insurance costs.*
 
 ---
@@ -348,9 +350,6 @@ We are confident that through our unique and open way of working and our strong 
 
 ---
 
-<br>
-<br>
-<br>
 
 ### Services *not* included in Proposal
 *Although we can provide the following services, we are assuming they will either not be necessary, or will be provided by outside parties.*
@@ -389,6 +388,13 @@ We are confident that through our unique and open way of working and our strong 
 * This proposal is valid for 90 days. 
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -438,7 +444,7 @@ OpeningDesign
 <br>
 <br>
 <br>
-<br>
+
 
 
 
@@ -458,10 +464,6 @@ OpeningDesign
 <br>
 <br>
 
----
-## License
-Per usual, unless otherwise noted, all content associated with [OpeningDesign](http://openingdesign.com) projects is licensed under an open source, 'copyleft' license: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution to be given to the entire team associated with the project.
-![Attribution-ShareAlike 4.0 International](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
 
