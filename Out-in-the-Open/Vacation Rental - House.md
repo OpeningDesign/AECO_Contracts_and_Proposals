@@ -270,7 +270,7 @@ To address your potential concerns, if any, we would like to offer the following
 
 
 
-> *Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively. 
+> Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively. 
 > 
 > The **Hourly Rates** called out below (which are well below what we see currently in the market), will apply until this not-to-exceed fee is reached.
 >
