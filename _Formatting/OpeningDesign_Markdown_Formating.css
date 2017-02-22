@@ -223,7 +223,7 @@ html {
 
 body {
   font-family: "Source Sans Pro", sans-serif;
-  font-size: 12px;
+  font-size: 12px !important;
   line-height: 1.45;
   color: #000;
   background-color: #fff
@@ -405,7 +405,7 @@ h4,
 
 h5,
 .h5 {
-  font-size: 12px
+  font-size: 12px !important
 }
 
 h6,
@@ -623,7 +623,7 @@ blockquote .small:before {
 }
 
 blockquote.pull-right {
-  padding-right: 12px;
+  padding-right: 12px !important;
   padding-left: 0;
   border-right: 5px solid #eee;
   border-left: 0
@@ -703,8 +703,8 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 12px;
-  padding-right: 12px
+  padding-left: 12px !important;
+  padding-right: 12px !important
 }
 
 .container:before,
@@ -746,8 +746,8 @@ pre code {
 }
 
 .row {
-  margin-left: -12px;
-  margin-right: -12px
+  margin-left: -12px !important;
+  margin-right: -12px !important
 }
 
 .row:before,
@@ -820,8 +820,8 @@ pre code {
 .col-lg-12 {
   position: relative;
   min-height: 1px;
-  padding-left: 12px;
-  padding-right: 12px
+  padding-left: 12px !important;
+  padding-right: 12px !important
 }
 
 .col-xs-1,
@@ -1838,7 +1838,7 @@ input[type="number"]::-webkit-inner-spin-button {
 output {
   display: block;
   padding-top: 7px;
-  font-size: 12px;
+  font-size: 12px !important;
   line-height: 1.45;
   color: #555;
   vertical-align: middle
@@ -1849,7 +1849,7 @@ output {
   width: 100%;
   height: 35px;
   padding: 6px 12px;
-  font-size: 12px;
+  font-size: 12px !important;
   line-height: 1.45;
   color: #555;
   vertical-align: middle;
@@ -1899,7 +1899,7 @@ textarea.form-control {
 }
 
 .form-group {
-  margin-bottom: 12px
+  margin-bottom: 12px !important
 }
 
 .radio,
@@ -2132,8 +2132,8 @@ textarea.input-lg {
 }
 
 .form-horizontal .form-group {
-  margin-left: -12px;
-  margin-right: -12px
+  margin-left: -12px !important;
+  margin-right: -12px !important
 }
 
 .form-horizontal .form-group:before,
@@ -2177,7 +2177,7 @@ textarea.input-lg {
   border: 1px solid transparent;
   white-space: nowrap;
   padding: 6px 12px;
-  font-size: 12px;
+  font-size: 12px !important;
   line-height: 1.45;
   border-radius: 4px;
   -webkit-user-select: none;
@@ -3448,7 +3448,7 @@ input[type="button"].btn-block {
   padding: 5px 0;
   margin: 2px 0 0;
   list-style: none;
-  font-size: 12px;
+  font-size: 12px !important;
   background-color: #fff;
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -3905,7 +3905,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .input-group-addon {
   padding: 6px 12px;
-  font-size: 12px;
+  font-size: 12px !important;
   font-weight: normal;
   line-height: 1;
   color: #555;
@@ -4018,7 +4018,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .nav>li>a {
   position: relative;
   display: block;
-  padding: 10px 12px
+  padding: 10px 12px !important
 }
 
 .nav>li>a:hover,
@@ -4298,8 +4298,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar-collapse {
   max-height: 340px;
   overflow-x: visible;
-  padding-right: 12px;
-  padding-left: 12px;
+  padding-right: 12px !important;
+  padding-left: 12px !important;
   border-top: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
   -webkit-overflow-scrolling: touch
@@ -4354,8 +4354,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .container>.navbar-header,
 .container>.navbar-collapse {
-  margin-right: -12px;
-  margin-left: -12px
+  margin-right: -12px !important;
+  margin-left: -12px !important
 }
 
 @media (min-width:768px) {
@@ -4405,7 +4405,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-brand {
   float: left;
-  padding: 14.5px 12px;
+  padding: 14.5px 12px !important;
   font-size: 19px;
   line-height: 21px
 }
@@ -4417,14 +4417,14 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 @media (min-width:768px) {
   .navbar>.container .navbar-brand {
-    margin-left: -12px
+    margin-left: -12px !important
   }
 }
 
 .navbar-toggle {
   position: relative;
   float: right;
-  margin-right: 12px;
+  margin-right: 12px !important;
   padding: 9px 10px;
   margin-top: 8px;
   margin-bottom: 8px;
@@ -4452,7 +4452,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-nav {
-  margin: 7.25px -12px
+  margin: 7.25px -12px !important
 }
 
 .navbar-nav>li>a {
@@ -4473,7 +4473,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   }
   .navbar-nav .open .dropdown-menu>li>a,
   .navbar-nav .open .dropdown-menu .dropdown-header {
-    padding: 5px 12px 5px 25px
+    padding: 5px 12px !important 5px 25px
   }
   .navbar-nav .open .dropdown-menu>li>a {
     line-height: 21px
@@ -4497,7 +4497,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     padding-bottom: 14.5px
   }
   .navbar-nav.navbar-right:last-child {
-    margin-right: -12px
+    margin-right: -12px !important
   }
 }
 
@@ -4511,9 +4511,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-form {
-  margin-left: -12px;
-  margin-right: -12px;
-  padding: 10px 12px;
+  margin-left: -12px !important;
+  margin-right: -12px !important;
+  padding: 10px 12px !important;
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
@@ -4566,7 +4566,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     box-shadow: none
   }
   .navbar-form.navbar-right:last-child {
-    margin-right: -12px
+    margin-right: -12px !important
   }
 }
 
@@ -4610,8 +4610,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 @media (min-width:768px) {
   .navbar-text {
     float: left;
-    margin-left: 12px;
-    margin-right: 12px
+    margin-left: 12px !important;
+    margin-right: 12px !important
   }
   .navbar-text.navbar-right:last-child {
     margin-right: 0
@@ -4823,7 +4823,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .breadcrumb {
-  padding: 8px 12px;
+  padding: 8px 12px !important;
   margin-bottom: 21px;
   list-style: none;
   background-color: #f5f5f5;
@@ -4985,7 +4985,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   padding: 5px 14px;
   background-color: #fff;
   border: 1px solid #ddd;
-  border-radius: 12px
+  border-radius: 12px !important
 }
 
 .pager li>a:hover,
@@ -5213,7 +5213,7 @@ a.thumbnail.active {
 }
 
 .alert {
-  padding: 12px;
+  padding: 12px !important;
   margin-bottom: 21px;
   border: 1px solid transparent;
   border-radius: 4px
@@ -5402,7 +5402,7 @@ a.thumbnail.active {
 
 .media,
 .media .media {
-  margin-top: 12px
+  margin-top: 12px !important
 }
 
 .media:first-child {
@@ -5438,7 +5438,7 @@ a.thumbnail.active {
 .list-group-item {
   position: relative;
   display: block;
-  padding: 10px 12px;
+  padding: 10px 12px !important;
   margin-bottom: -1px;
   background-color: #fff;
   border: 1px solid #ddd
@@ -5518,7 +5518,7 @@ a.list-group-item.active:focus .list-group-item-text {
 }
 
 .panel-body {
-  padding: 12px
+  padding: 12px !important
 }
 
 .panel-body:before,
@@ -5633,7 +5633,7 @@ a.list-group-item.active:focus .list-group-item-text {
 }
 
 .panel-heading {
-  padding: 10px 12px;
+  padding: 10px 12px !important;
   border-bottom: 1px solid transparent;
   border-top-right-radius: 3px;
   border-top-left-radius: 3px
@@ -5655,7 +5655,7 @@ a.list-group-item.active:focus .list-group-item-text {
 }
 
 .panel-footer {
-  padding: 10px 12px;
+  padding: 10px 12px !important;
   background-color: #f5f5f5;
   border-top: 1px solid #ddd;
   border-bottom-right-radius: 3px;
@@ -5922,7 +5922,7 @@ button.close {
 }
 
 .modal-header {
-  padding: 12px;
+  padding: 12px !important;
   border-bottom: 1px solid #e5e5e5;
   min-height: 16.45px
 }
@@ -5942,7 +5942,7 @@ button.close {
 }
 
 .modal-footer {
-  margin-top: 12px;
+  margin-top: 12px !important;
   padding: 19px 20px 20px;
   text-align: right;
   border-top: 1px solid #e5e5e5
@@ -5987,8 +5987,8 @@ button.close {
     margin: 30px auto
   }
   .modal-content {
-    -webkit-box-shadow: 0 5px 12px rgba(0, 0, 0, 0.5);
-    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.5)
+    -webkit-box-shadow: 0 5px 12px !important rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 12px !important rgba(0, 0, 0, 0.5)
   }
 }
 
@@ -6144,7 +6144,7 @@ button.close {
 .popover-title {
   margin: 0;
   padding: 8px 14px;
-  font-size: 12px;
+  font-size: 12px !important;
   font-weight: normal;
   line-height: 18px;
   background-color: #f7f7f7;
@@ -7963,7 +7963,7 @@ img {
 
 .sequence-diagram text,
 .flow-chart text {
-  font-size: 12px !important;
+  font-size: 12px !important !important;
   font-family: "Source Sans Pro", sans-serif !important
 }
 
@@ -8062,7 +8062,7 @@ blockquote {
   background-color: #f8f8f8;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
-  padding: 12px 20px
+  padding: 12px !important 20px
 }
 
 blockquote p {
@@ -8105,7 +8105,7 @@ kbd {
 
 .toc ul {
   list-style-type: none;
-  margin-bottom: 12px
+  margin-bottom: 12px !important
 }
 
 .footnote {
