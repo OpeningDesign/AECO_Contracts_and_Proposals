@@ -412,7 +412,7 @@ To address your potential concerns, if any, we would like to offer the following
 
 ### Hourly Rates
 
-<!--
+<!---
 > Please Note:  Services performed in Phase 1 (Programming) will be discounted **25%** discount.
 -->
 
@@ -616,3 +616,15 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 This project, like most OpeningDesign's projects, is open source (Attribution-ShareAlike 4.0 International--CC BY-SA 4.0)--freely available to any party for future use, assuming the terms such as Attribution and ShareAlike are honored. 
+
+
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+Or you could go further:
+
+[//]: <> (This is also a comment.)
+To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>:
+
+[//]: # (This may be the most platform independent comment)
