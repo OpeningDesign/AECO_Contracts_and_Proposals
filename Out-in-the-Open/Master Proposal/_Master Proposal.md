@@ -95,7 +95,7 @@ The following is a breakdown of projected services and phases we anticipate for 
 		* Measure and model/draft the existing conditions relative to the scope of work.
 	    * Conduct research on list of spaces/rooms 
 		    * Provide quick, single-line, diagrams to explore ideal layout and adjacencies of the various spaces
-- LEED
+	* LEED
 		- Facilitate workshop with owner and the various consultants/contractors to determine [LEED credits](https://github.com/OpeningDesign/OD_Library/blob/master/Green/LEED%20Credits%20-%20New%20Construction%20-%20LEED%20v4.md) to prioritize 
 		- Register project with the U.S. Green Building Council’s (USGBC’s) Leadership in Energy and Environmental Design (LEED) certification program
 
@@ -125,19 +125,21 @@ The following is a breakdown of projected services and phases we anticipate for 
 		    * Daylighting
 		    * Existing site layout
 	    * Concepts will be presented in the following formats
-		       * 3-dimensional renderings/animations
-		        * Examples of what to expect...
-			        * https://www.youtube.com/watch?v=eKLwbRPwYzE&t
-			        * https://www.youtube.com/watch?v=bS4kqCsIHWk&t
-		       * Floor Plans
-		       * Elevations
-		       * Building Sections
+           * 3-dimensional renderings/animations
+            * Examples of what to expect...
+                * https://www.youtube.com/watch?v=eKLwbRPwYzE&t
+                * https://www.youtube.com/watch?v=bS4kqCsIHWk&t
+           * Floor Plans
+           * Elevations
+           * Building Sections
        * Provide a schematic/preliminary estimate for cost of construction or help GC with quantity takes-offs
        * Start coordinating and eliciting feedback from the various subs/engineering disciplines
        * At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary
-* Virtual Reality Experience
-		* Although the rendering and animations, mentioned above, are provided in the base architecture fee, this proposal also provides the option for higher end renderings, animations and virtual experiences.  If required, they will be subcontracted through the company [Archvirtual](http://archvirtual.com/).  Please see the attached literature for work samples and potential offerings. The costs associated with these services vary dramatically ($15k - $50k) depending on the caliber of detail provided.  In lieu of any hard estimates a placeholder of $25k is provided in this fee proposal.
-* LEED
+
+    * Virtual Reality Experience
+        * Although the rendering and animations, mentioned above, are provided in the base architecture fee, this proposal also provides the option for higher end renderings, animations and virtual experiences.  If required, they will be subcontracted through the company [Archvirtual](http://archvirtual.com/).  Please see the attached literature for work samples and potential offerings. The costs associated with these services vary dramatically ($15k - $50k) depending on the caliber of detail provided.  In lieu of any hard estimates a placeholder of $25k is provided in this fee proposal.
+
+    * LEED
 		* Conduct energy modeling analysis to determine ideal orientation, shading strategies and glazing percentages to maximum energy efficiency
 		* Compose and distribute **LEED Certification Plan** to consultants/contractors.  Includes.
 			* LEED points targets
@@ -173,9 +175,9 @@ The following is a breakdown of projected services and phases we anticipate for 
 			 * Plumbing Engineer
 			 * Lighting Designer
 
-- LEED
-		- Modify and update **LEED Certification Plan** as appropriate
-		- Provide shortlist of potential green building products and materials
+    * LEED
+		* Modify and update **LEED Certification Plan** as appropriate
+		* Provide shortlist of potential green building products and materials
 
 <!-- 
 
@@ -200,10 +202,10 @@ The following is a breakdown of projected services and phases we anticipate for 
 	        * Floor plans<!--  * -->
 	        * Roof plans
 	        * Reflected ceiling plans
-		        * Lighting layout<!--* -->
+		        * Lighting layout
 	        * Building elevations
 	        * Interior elevations
-		        * Including millwork/casework (large scale details are not included in this scope)<!--*  *  * -->
+		        * Including millwork/casework (large scale details are not included in this scope)
 	        * Building Sections
 	        * Wall Sections
 	        * Stair sections
@@ -220,7 +222,7 @@ The following is a breakdown of projected services and phases we anticipate for 
 	        * Floor plans with member sizes
 	        * Structural calculations
 	        * Details
-   * Electrical
+   	* Electrical
 			* Major Equipment Locations
 	        * Receptical locations 
 	        * Lighting
