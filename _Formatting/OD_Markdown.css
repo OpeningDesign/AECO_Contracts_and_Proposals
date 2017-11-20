@@ -57,6 +57,6 @@ blockquote {
 	padding: 10px 15px;
 }
 
-ol ol {
-    list-style-type:decimal-leading-zero;
+ol {
+    list-style-type:upper-roman;
 }
