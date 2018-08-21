@@ -4,11 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
   <link rel="stylesheet" href="http://openingdesign.com/OD_Markdown.css" />
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <title>{{files.0.name}}</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 {{#if pdf}}
