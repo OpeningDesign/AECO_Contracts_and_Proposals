@@ -2,6 +2,7 @@
 
 
 
+
 <p align="right" style="" >
 <img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Logos/od_icon_logo_2.jpg" width="120px"/>
 </p>
@@ -12,29 +13,20 @@
 <br>
 
 
-
+<!--
 <img align="left" src="https://dl.dropbox.com/s/ld45z2d8r58nri5/River%20Valley%20Ranch%20-%20Cover%20Image.png?dl=0" width="550px">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+-->
 <br>
 
 
 
-## [Generic Proposal]
+
+
+
+
+
+
+## [Generic Residential Proposal]
 
 
 #### Proposal for [OpeningDesign's](http://openingdesign.com/) Architecture & Engineering Services
@@ -49,12 +41,15 @@ FOR:
 > xxx
 > xxx
 > xxx
+> xxx
 
 
 <br>
 
+<!--
+
 ---
-Hi xxx
+Hi [xxx},
 
 Was a pleasure chatting the other day. I'm excited about the potential of working together!
 
@@ -62,32 +57,8 @@ Thank you for the opportunity to share the following proposal.
 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, I understand that the project will include the following list of requirements/priorities...
 
-
-- Checkout Counter
-	- The customer 'flow' around the counter is currently pretty congested--needs to be improved
-	- The use of the 2nd register is spatially too tight
-	- Eating area seating near counter
-		- To allow the employees to both work the registers and tend to the restaurant patrons
-			- Approx. 8 seats
-			- Explore relocating wine/beer near eating area (although there is currently not a license for consumption on site)
-	- Introduce an integral deli case at the counter
-	- More display space in/around checkout counter
-- Preserve the ability to sit outside. 
-	- explore areas for informal entertainment. 
-- Explore relocating the kitchen near the checkout counter and eating area.
-	- Explore the potential of including a wood-fired stove as the focal point to the store/restaurant. 
-- Expanded storage and the delivery area
-	- located potential where the shipping containers are currently located.
-- General display area
-	- Remove ceiling tiles, and entertain a barn-like faux purlin/rafter structure
-	- Introduce new drop down lights to improve maintenance access, as well to create more intimate areas.
-- In general
-	- Explore operable windows
-- Schedule
-	- Looking to start construction during seasonal slow time--before Thanksgiving, potentially 
-
  
-<!--
+
 
 >The above list is also included in the following online document... 
 https://docs.google.com/document/d/125-xQcU_22aZwW-1699Hmp7ui3n38U7tFa5BBfvOMRc/edit
@@ -105,17 +76,21 @@ The following is a breakdown of services and phases we anticipate for your proje
 <br>
 
  * ### **Phase 1 - Pre-Design & Programming** <br><!--*(Fees associated with this phase are discounted at 25%)*-->
-	* Conduct zoning & building code analysis & summary
-	* Measure and model/draft the existing conditions relative to the scope of work.  This does not include a site survey.
-	* We assume a survey of the existing site will by supplied by a 3rd party.
+	* Conduct <!--zoning & -->building code analysis & summary
+	* Measure and model/draft the existing conditions relative to the scope of work.
+	* This proposal does not include a site survey. We assume a survey of the existing site will by supplied by a 3rd party.
 		* Although one is not necessary in these earlier phases, it's best practices to supply an official survey as early as possible, as it assures the proposed design, as it is laid out on the site, is based on accurate information.  It eliminates the potential for any surprises and rework further down the line.
-
+			* Ideally, the survey will include:
+				* building in relation to property lines
+				* easements
+				* utility locations
+				* topographical elevations
 
 <!--
 
 -----------------------------------------------------------------------------------------------------------------------
 
-   * Provide, and meet to discuss, 2 or 3 diagrammatic floor plan options which will explore ideal layout and adjacencies of the various spaces throughout the project, as well, as their relation to the site.  These design options will address varying approaches in the following criteria.
+* Provide, and meet to discuss, 2 or 3 diagrammatic floor plan options which will explore ideal layout and adjacencies of the various spaces throughout the project, as well, as their relation to the site.  These design options will address varying approaches in the following criteria.
 	    * Functional relationship of the various spaces
 	    * Code restrictions/requirements
 	    * Structural considerations
@@ -177,12 +152,12 @@ The following is a breakdown of services and phases we anticipate for your proje
         * 3-dimensional renderings/animations
 	         * Examples...
 	             * https://www.youtube.com/watch?v=eKLwbRPwYzE&t
-	             * https://www.youtube.com/watch?v=0bJeqpB7VnE&t
+	             * https://www.youtube.com/watch?v=0bJeqpB7VnE&t-->
         * Drawings
 	        * Floor Plans
 	        * Elevations
 	        * Building Sections
-       * Start coordinating and eliciting feedback from the various <!--subs/-->engineering disciplines
+       <!--* Start coordinating and eliciting feedback from the various <!--subs/-->engineering disciplines-->
 
 
 
@@ -217,14 +192,20 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 
 
-    * Here we, along with our consultants, will dial into one design by either refining one of the proposed designs and/or combining the desired aspects of the other design(s) proposed.
+    * Here we <!--, along with our consultants, -->will dial into one design by either refining one of the proposed designs and/or combining the desired aspects of the other design(s) proposed.
     * Developed deliverables will include:
        * Site Plan
         * Floor Plans
         * Demolition plans
         * Elevations
         * Sections
-    *  At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary.
+   *  At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary.
+	* At the end of this phase we will have enough documentation to share with a contractor to get preliminary budget costs.  As they are preliminary, these estimates will most likely have a margin of error between 15% and 30% percent. 
+	    *  If necessary, we will help suggest qualified GCs to help with the estimates.
+
+<!--
+
+
 	    * Depending on the design, we may have to consult with a civil engineer to create the following.  This proposal **does not** cover these services, if the need for them, arises. 
 		    * Storm water management/calculations
 	        * Grading and erosion control plan/details
@@ -236,13 +217,11 @@ The following is a breakdown of services and phases we anticipate for your proje
 			        * Storm
 			        * Fire Hydrant
 
-    * At the end of this phase we will have enough documentation to share with a contractor to get preliminary budget costs.  As they are preliminary, these estimates will most likely have a margin of error between 15% and 30% percent. 
-	    *  If necessary, we will help suggest qualified GCs to help with the estimates.
+    
 
 
 
 
-<!-- 
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -257,7 +236,7 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 -----------------------------------------------------------------------------------------------------------------------
 
-	    * This proposal assumes we will need an **Shoreland Erosion Control Permit** from the Dane County Land & Water Resources Department.  We will consult with a civil engineer to provide the following.
+	    * This proposal assumes we will need a **Shoreland Erosion Control Permit** from the Dane County Land & Water Resources Department.  We will consult with a civil engineer to provide the following.
 		    * Site plan with contours
 		    * Storm water management/calculations
 	        * Grading and erosion control plan/details
@@ -285,48 +264,50 @@ The following is a breakdown of services and phases we anticipate for your proje
  * ### **Phase 4 - Construction Documents**
 
 
-     * Out of all the phases listed in this proposal, the **Construction Document** phase is the most labor intensive.  This is the phase where we dial into the exacting details of the design.  We, along with our consultants, propose to provide the following drawings for your project.
+     * Out of all the phases listed in this proposal, the **Construction Document** phase is the most labor intensive.  This is the phase where we dial into the exacting details of the design.  We <!--, along with our consultants, --> propose to provide the following drawings for your project.
 
         * Architectural
 	        * Code summary
-	        * 	ADA requirements
+	        <!--* ADA requirements, if necessary
 	        * Life safety plan
-	        * Emergency and exit sign layouts
-	        * Site plan w/ topography
+	        * Emergency and exit sign layouts-->
+	        * Site plan 
+		        * w/ topography, if elevations were supplied by surveyor
 	        * Demolition plans
-	        * 	Floor plans
+	        * Floor plans
 	        * Roof Plan
-	        * 	Reflected ceiling plans
+	        <!--* 	Reflected ceiling plans
 		        * Lighting layout
 			        * But does not include...
-				        <!--*  specifying lighting fixtures. We assume, being an existing space, that a majority of the fixtures will match existing.-->
+				        *  specifying lighting fixtures. We assume, being an existing space, that a majority of the fixtures will match existing.
 				        * Circuiting
 				        * Lighting controls
 				        * Photometric Calculations
-		        * Help specing fixtures, if necessary
+		        * Help specing light fixtures, if necessary, but we assume the fixtures we match existing-->
 			* Building Sections
 			* Wall Sections
 			* Stair sections
-	        * Interior elevations<!--This proposal does not include elevations or details for millwork/casework-->
-		       <!-- * Only includes elevations of ADA restroom layouts.-->
-		       <!-- * We assume you do not need elevations of millwork and interior spaces.-->
+	        <!--* Interior elevations
+		        This proposal does not include elevations or details for millwork/casework
+		       * Only includes elevations of ADA restroom layouts.
+		       * We assume you do not need elevations of millwork and interior spaces.-->
 	        * Schedules
 		        * Door
 		        * Window
-		        <!--* Finish-->
-	        * Small scale exterior <!--interior--> details, as necessary
+		        * Finish
+             <!--* Electrical/Low Voltage
+	             * Will provide electrical/low voltage layout, but does not include electrical engineering such as:
+			        * Branch circuit layouts & panel scheduling
+			        * Control panel/room layout & sizing
+			        * Electrical diagrams
+	        * Small scale exterior interior details, as necessary-->
         *  Structural 
 	        * Floor plans with member sizes
 			 * Structural calculations
-        * Electrical/Low Voltage
-         Will provide electrical/low voltage layout
-	        * But does not include electrical engineering such as...
-		        * Branch circuit layouts & panel scheduling
-		        * Control panel/room layout & sizing
-		        * Electrical diagrams
 
 
-<!--
+
+
 
 > Please see the section called **Services not included** in the proposal below to determine if you would like us to include any of those services listed there.
 >
@@ -337,7 +318,7 @@ The following is a breakdown of services and phases we anticipate for your proje
 >If, however, you prefer more thorough documentation, with less surprises, please let us know--as we will adjust this proposal in that regard.
 >
 
--->
+
 
 
 
@@ -490,13 +471,23 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 - Although **we can provide** the following services, we assume either they are not necessary or will be provided by a 3rd party via the GC or directly contracted through you.  *Please lets us know if you would like us to include any of the following.*
 
+	 - Finish Plans/Schedules
+		 -   That is, Propose, select, and refine materials and finish options.  Assuming finishes will match existing.
+	- Small scale (3" or 6" = 1'-0") construction details
+	- Reflected ceiling plan
+		- Lighting layout and specification
+	- Interior Design
+		- Casework/Millwork elevations & details
+		- small scale interior details
+	- Civil Engineering
+	- Landscape Design
 	- Land Surveying
 	- HVAC/Mechanical Design
 	- Energy code check (COMcheck for example)
 	- Electrical Design
 	- Plumbing Design
-	-  Extensive Low Voltage Design
-	- Audio/Visual Design
+	- Extensive Low Voltage Design
+	- Audio/Visual Desig
 	- LEED Design
 	- LEED Commissioning
 	- Hyper-Realistic Renderings
@@ -506,7 +497,6 @@ The following is a breakdown of services and phases we anticipate for your proje
 	- Food Service or Commercial Kitchen Design
 	- Security
 	- Signage Design/Layout
-	- Landscape Design
 	- Acoustical Engineering Services
 	- Geotechnical Engineering
 	- Environmental Studies and Reports
@@ -529,17 +519,11 @@ The following is a breakdown of services and phases we anticipate for your proje
 <!--
 
 
-	- Reflected ceiling plan
-	- Lighting layout and specification
-	- Interior Design
-		- Casework/Millwork elevations & details
-		- small scale interior details
-		- 	
- - Finish Plans/Schedules
-		 -   That is, Propose, select, and refine materials and finish options
+
+
 
 	- Structural Design
-	- Civil Engineering
+
 
 -->
 
@@ -593,8 +577,7 @@ Simply put, this way of working allows OpeningDesign and [our extended team of g
 
 To address your potential concerns, if any, we would like to offer the following (3) workflow and fee options:
 
-<br>
-<br>
+
 
 ### Approach A
  * **Approach (A): A Fully Open Approach** where the construction documentation, location, and the names of the parties involved in this contract are known and are shared publicly.  All of OpeningDesign's (and their consultant's) newly created documentation/content is [open source](https://creativecommons.org/licenses/by-sa/4.0/).  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://creativecommons.org/licenses/by-sa/4.0/) and [ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) are honored.
@@ -621,21 +604,7 @@ To address your potential concerns, if any, we would like to offer the following
 
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Not-to-Exceed Fee Proposal Options (**A**, **B**, or **C**):
 <table cellspacing="0" border="0">
@@ -663,83 +632,83 @@ To address your potential concerns, if any, we would like to offer the following
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.1" sdnum="1033;0;0.00%"><font face="Lato">10.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 1: <br>Pre-Design &amp; Programming</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0075" sdnum="1033;0;0.0%"><font face="Lato">0.8%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1125" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,125</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0085" sdnum="1033;0;0.0%"><font face="Lato">0.9%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1275" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,275</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0095" sdnum="1033;0;0.0%"><font face="Lato">1.0%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1425" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,425</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.006" sdnum="1033;0;0.0%"><font face="Lato">0.6%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="840" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$840</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.007" sdnum="1033;0;0.0%"><font face="Lato">0.7%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="980" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$980</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.008" sdnum="1033;0;0.0%"><font face="Lato">0.8%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1120" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,120</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">2.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Lato">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 2: <br>Schematic Design</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.015" sdnum="1033;0;0.0%"><font face="Lato">1.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2250" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,250</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.017" sdnum="1033;0;0.0%"><font face="Lato">1.7%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2550" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,550</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.019" sdnum="1033;0;0.0%"><font face="Lato">1.9%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2850" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,850</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="4" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">4.0 wks</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.012" sdnum="1033;0;0.0%"><font face="Lato">1.2%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1680" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,680</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.014" sdnum="1033;0;0.0%"><font face="Lato">1.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1960" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,960</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.016" sdnum="1033;0;0.0%"><font face="Lato">1.6%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2240" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,240</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">3.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.15" sdnum="1033;0;0.00%"><font face="Lato">15.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 3: <br>Design Development</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.01125" sdnum="1033;0;0.0%"><font face="Lato">1.1%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1687.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,688</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.01275" sdnum="1033;0;0.0%"><font face="Lato">1.3%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1912.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,913</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.01425" sdnum="1033;0;0.0%"><font face="Lato">1.4%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2137.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,138</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">3.0 wks</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.009" sdnum="1033;0;0.0%"><font face="Lato">0.9%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1260" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,260</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0105" sdnum="1033;0;0.0%"><font face="Lato">1.1%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1470" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,470</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.012" sdnum="1033;0;0.0%"><font face="Lato">1.2%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1680" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,680</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">2.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.3" sdnum="1033;0;0.00%"><font face="Lato">30.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 4: <br>Construction Documents</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0225" sdnum="1033;0;0.0%"><font face="Lato">2.3%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="3375" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$3,375</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0255" sdnum="1033;0;0.0%"><font face="Lato">2.6%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="3825" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$3,825</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0285" sdnum="1033;0;0.0%"><font face="Lato">2.9%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="4275" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$4,275</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="5" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">5.0 wks</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.018" sdnum="1033;0;0.0%"><font face="Lato">1.8%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2520" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,520</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.021" sdnum="1033;0;0.0%"><font face="Lato">2.1%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2940" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,940</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.024" sdnum="1033;0;0.0%"><font face="Lato">2.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="3360" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$3,360</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="4" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">4.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.00%"><font face="Lato">5.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 5: <br>Bidding &amp; Contract Negotiation</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00375" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="562.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$563</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00425" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="637.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$638</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00475" sdnum="1033;0;0.0%"><font face="Lato">0.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="712.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$713</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.003" sdnum="1033;0;0.0%"><font face="Lato">0.3%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="420" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$420</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0035" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="490" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$490</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.004" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="560" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$560</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">1.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Lato">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 6: <br>Construction Administration</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.015" sdnum="1033;0;0.0%"><font face="Lato">1.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2250" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,250</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.017" sdnum="1033;0;0.0%"><font face="Lato">1.7%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2550" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,550</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.019" sdnum="1033;0;0.0%"><font face="Lato">1.9%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2850" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,850</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.012" sdnum="1033;0;0.0%"><font face="Lato">1.2%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1680" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,680</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.014" sdnum="1033;0;0.0%"><font face="Lato">1.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1960" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$1,960</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.016" sdnum="1033;0;0.0%"><font face="Lato">1.6%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2240" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$2,240</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">n/a</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="31" align="center" valign="middle" sdval="1" sdnum="1033;0;0.00%"><b><font face="Lato">100.00%</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><b><font face="Lato">All Phases</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.075" sdnum="1033;0;0.0%"><b><font face="Lato">7.5%</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="11250" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$11,250</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.085" sdnum="1033;0;0.0%"><b><font face="Lato">8.5%</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="12750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$12,750</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.095" sdnum="1033;0;0.0%"><b><font face="Lato">9.5%</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="14250" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$14,250</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.06" sdnum="1033;0;0.0%"><b><font face="Lato">6.0%</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="8400" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$8,400</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.07" sdnum="1033;0;0.0%"><b><font face="Lato">7.0%</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="9800" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$9,800</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.08" sdnum="1033;0;0.0%"><b><font face="Lato">8.0%</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="11200" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$11,200</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato"><br></font></b></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="7" height="17" align="right" valign="middle"><i><font face="Lato" color="#666666">Assuming a Construction Cost = </font></i></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="150000" sdnum="1033;0;[$$-409]#,##0;[RED]-[$$-409]#,##0"><i><font face="Lato" color="#666666">$150,000</font></i></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="140000" sdnum="1033;0;[$$-409]#,##0;[RED]-[$$-409]#,##0"><i><font face="Lato" color="#666666">$140,000</font></i></td>
 		<td align="center" valign="middle"><font face="Lato"><br></font></td>
 	</tr>
 </tbody></table>
@@ -764,25 +733,28 @@ To address your potential concerns, if any, we would like to offer the following
 
 
 <br>
-<br>
-<br>
-<br>
+
 
 
 ## Hourly Rates
 <table cellspacing="0" border="0">
 	<colgroup width="275"></colgroup>
-	<colgroup span="4" width="90"></colgroup>
+	<colgroup span="5" width="90"></colgroup>
+	<colgroup width="85"></colgroup>
 	<tbody><tr>
 		<td height="103" align="center" valign="middle"><b><font face="Lato">Discipline</font></b></td>
 		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(A)</font></b></td>
 		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(B)</font></b></td>
 		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(C)</font></b></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato">A Rough Estimated Percentage of Fees</font></b></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato">A Rough Estimated Percentage of Overall Construction Costs</font></b></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">Architecture (<a href="http://openingdesign.com/">OpeningDesign</a>)</font></b></td>
-		<td align="center" valign="middle" sdval="0.8" sdnum="1033;0;0.0%"><font face="Lato">80.0%</font></td>
+		<td align="center" valign="middle" sdval="0.833333333333333" sdnum="1033;0;0.0%"><font face="Lato">83.3%</font></td>
+		<td align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.0%"><font face="Lato">5.0%</font></td>
+		<td align="right" sdval="7000" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato">$7,000.00</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 1</font></td>
@@ -790,6 +762,8 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
 		<td align="center" valign="middle" sdval="95" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$95/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 2</font></td>
@@ -797,6 +771,8 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
 		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 3</font></td>
@@ -804,10 +780,14 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
 		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">Structural Engineer</font></b></td>
-		<td align="center" valign="middle" sdval="0.133333333333333" sdnum="1033;0;0.0%"><font face="Lato">13.3%</font></td>
+		<td align="center" valign="middle" sdval="0.166666666666667" sdnum="1033;0;0.0%"><font face="Lato">16.7%</font></td>
+		<td align="center" valign="middle" sdval="0.01" sdnum="1033;0;0.0%"><font face="Lato">1.0%</font></td>
+		<td align="right" sdval="1400" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato">$1,400.00</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 1</font></td>
@@ -815,6 +795,8 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="160" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$160/HR</font></td>
 		<td align="center" valign="middle" sdval="170" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$170/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 2</font></td>
@@ -822,6 +804,8 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="130" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$130/HR</font></td>
 		<td align="center" valign="middle" sdval="140" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$140/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 3</font></td>
@@ -829,26 +813,14 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
 		<td align="center" valign="middle" sdval="120" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$120/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">Potential Additional Consultants</font></b></td>
-		<td align="center" valign="middle" sdval="0.0666666666666667" sdnum="1033;0;0.0%"><font face="Lato">6.7%</font></td>
-	</tr>
-	<tr>
-		<td colspan="4" height="17" align="left" valign="top"><font face="Lato">• Lighting</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td colspan="4" height="17" align="left" valign="top"><font face="Lato">• Door Hardware Consultant</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td colspan="4" height="17" align="left" valign="top"><font face="Lato">• Construction Specification Consultant</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
+		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">TOTAL</font></b></td>
 		<td align="center" valign="middle" sdval="1" sdnum="1033;0;0.0%"><font face="Lato">100.0%</font></td>
+		<td align="center" valign="middle" sdval="0.06" sdnum="1033;0;0.0%"><font face="Lato">6.0%</font></td>
+		<td align="right" sdval="8400" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato">$8,400.00</font></td>
 	</tr>
 </tbody></table>
 
@@ -946,36 +918,7 @@ Madison, Wisconsin 53703
 
 
 
-
-
-
-
-
-
-
-
-
 <br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
-
 
 
 
@@ -1007,18 +950,6 @@ Madison, Wisconsin 53703
 ---
 
 
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
 
 ### License
 
@@ -1028,10 +959,6 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 
-<!--
-This project, like most OpeningDesign's projects, is open source (Attribution-ShareAlike 4.0 International--CC BY-SA 4.0)--freely available to any party for future use, assuming the terms such as Attribution and ShareAlike are honored.
-an Schultz
-OpeningDesign
 
 
 
@@ -1039,49 +966,9 @@ OpeningDesign
 
 
 
-
-<br>
-<br>
-<br>
-
-
-
-### Authorized by:
-
-* Please indicated preferred Fee Proposal Option (**A**, **B**, or **C**):
-
----
-
-* Signature
-
----
-
-* Title
-
----
-
-* Date
-
----
-
-<br>
-<br>
-<br>
-
-
-
-
-
-### License
-
-Per usual, unless otherwise noted, all content associated with [OpeningDesign](http://openingdesign.com) projects is licensed under an open source, 'copyleft' license: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) ![Attribution-ShareAlike 4.0 International](http://i.creativecommons.org/l/by-sa/3.0/88x31.png).  Attribution to be given to the entire team associated with the project.
-
-
-<!--
-This project, like most OpeningDesign's projects, is open source (Attribution-ShareAlike 4.0 International--CC BY-SA 4.0)--freely available to any party for future use, assuming the terms such as Attribution and ShareAlike are honored.
--->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjAxMjkzMCwxNDk5NjQzNzc0LC0yND
-MyOTc4OTIsLTE3OTg4NTc2MTYsOTU0NzU4MDQ0LC03NTg0MTky
-ODYsLTk2MjAxNzRdfQ==
+eyJoaXN0b3J5IjpbLTcxNTM4NTMyNiwtMjc0NDc3MjI4LDE1OT
+k1MzI3NzksMTQwNjAxMjkzMCwxNDk5NjQzNzc0LC0yNDMyOTc4
+OTIsLTE3OTg4NTc2MTYsOTU0NzU4MDQ0LC03NTg0MTkyODYsLT
+k2MjAxNzRdfQ==
 -->
