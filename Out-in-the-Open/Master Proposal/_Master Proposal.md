@@ -739,22 +739,17 @@ To address your potential concerns, if any, we would like to offer the following
 ## Hourly Rates
 <table cellspacing="0" border="0">
 	<colgroup width="275"></colgroup>
-	<colgroup span="5" width="90"></colgroup>
-	<colgroup width="85"></colgroup>
+	<colgroup span="4" width="90"></colgroup>
 	<tbody><tr>
 		<td height="103" align="center" valign="middle"><b><font face="Lato">Discipline</font></b></td>
 		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(A)</font></b></td>
 		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(B)</font></b></td>
 		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(C)</font></b></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato">A Rough Estimated Percentage of Fees</font></b></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato">A Rough Estimated Percentage of Overall Construction Costs</font></b></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">Architecture (<a href="http://openingdesign.com/">OpeningDesign</a>)</font></b></td>
 		<td align="center" valign="middle" sdval="0.833333333333333" sdnum="1033;0;0.0%"><font face="Lato">83.3%</font></td>
-		<td align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.0%"><font face="Lato">5.0%</font></td>
-		<td align="right" sdval="7000" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato">$7,000.00</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 1</font></td>
@@ -762,8 +757,6 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
 		<td align="center" valign="middle" sdval="95" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$95/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 2</font></td>
@@ -771,8 +764,6 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
 		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 3</font></td>
@@ -780,14 +771,10 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
 		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">Structural Engineer</font></b></td>
 		<td align="center" valign="middle" sdval="0.166666666666667" sdnum="1033;0;0.0%"><font face="Lato">16.7%</font></td>
-		<td align="center" valign="middle" sdval="0.01" sdnum="1033;0;0.0%"><font face="Lato">1.0%</font></td>
-		<td align="right" sdval="1400" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato">$1,400.00</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 1</font></td>
@@ -795,8 +782,6 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="160" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$160/HR</font></td>
 		<td align="center" valign="middle" sdval="170" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$170/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 2</font></td>
@@ -804,8 +789,6 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="130" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$130/HR</font></td>
 		<td align="center" valign="middle" sdval="140" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$140/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 3</font></td>
@@ -813,14 +796,10 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
 		<td align="center" valign="middle" sdval="120" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$120/HR</font></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Lato"><br></font></td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">TOTAL</font></b></td>
 		<td align="center" valign="middle" sdval="1" sdnum="1033;0;0.0%"><font face="Lato">100.0%</font></td>
-		<td align="center" valign="middle" sdval="0.06" sdnum="1033;0;0.0%"><font face="Lato">6.0%</font></td>
-		<td align="right" sdval="8400" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00"><font face="Lato">$8,400.00</font></td>
 	</tr>
 </tbody></table>
 
@@ -967,7 +946,7 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTM4NTMyNiwtMjc0NDc3MjI4LDE1OT
+eyJoaXN0b3J5IjpbMTIzMzI4MDQxOCwtMjc0NDc3MjI4LDE1OT
 k1MzI3NzksMTQwNjAxMjkzMCwxNDk5NjQzNzc0LC0yNDMyOTc4
 OTIsLTE3OTg4NTc2MTYsOTU0NzU4MDQ0LC03NTg0MTkyODYsLT
 k2MjAxNzRdfQ==
