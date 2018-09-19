@@ -46,3 +46,6 @@ Under the [terms](https://creativecommons.org/licenses/by-sa/4.0/) in the licens
 
 
 *The history of how this document has evolved over time, can be found [here](https://github.com/OpeningDesign/AECO_Contracts_and_Proposals/commits/master/Out-in-the-Open/Consultants/Consultant%20Contract.md).*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwODEyNzkyNDddfQ==
+-->

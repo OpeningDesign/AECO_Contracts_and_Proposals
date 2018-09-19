@@ -719,7 +719,8 @@ To address your potential concerns, if any, we would like to offer the following
 > The **Hourly Rates**, called out below, will apply until this not-to-exceed fee is reached.
 >
 >By using hourly rates and not-to-exceed fees <!-- based on percentages of construction-->, we have found this to be a win-win for both parties.  The design professionals are given a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  In addition, clients are able to adjust, on the fly, what types of services they might or might not need as the project unfolds.
-> 
+>
+>Please note these not-to-exceed fees do not include reimbursable expenses.
  
 
 
@@ -946,8 +947,8 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzI4MDQxOCwtMjc0NDc3MjI4LDE1OT
-k1MzI3NzksMTQwNjAxMjkzMCwxNDk5NjQzNzc0LC0yNDMyOTc4
-OTIsLTE3OTg4NTc2MTYsOTU0NzU4MDQ0LC03NTg0MTkyODYsLT
-k2MjAxNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzk3NDgwMiwxMjMzMjgwNDE4LC0yNz
+Q0NzcyMjgsMTU5OTUzMjc3OSwxNDA2MDEyOTMwLDE0OTk2NDM3
+NzQsLTI0MzI5Nzg5MiwtMTc5ODg1NzYxNiw5NTQ3NTgwNDQsLT
+c1ODQxOTI4NiwtOTYyMDE3NF19
 -->
