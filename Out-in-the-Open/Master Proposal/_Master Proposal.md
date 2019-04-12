@@ -1,10 +1,6 @@
 
-<!--
 
-License:
-This document, like most OpeningDesign's projects, is open source (Attribution-ShareAlike 4.0 International--CC BY-SA 4.0)--freely available to any party, for any use, assuming the terms such as Attribution and ShareAlike are honored. 
 
--->
 
 
 
@@ -28,7 +24,7 @@ This document, like most OpeningDesign's projects, is open source (Attribution-S
 
 
 
-# [Generic Proposal]
+# 
 
 
 
@@ -42,8 +38,8 @@ This document, like most OpeningDesign's projects, is open source (Attribution-S
 FOR:
 
 >
->
->
+
+
 
 
 
@@ -59,13 +55,20 @@ Thank you for the opportunity to share the following proposal.
 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, I understand that the project will include the following list of requirements/priorities...
 
-
+- 9000 sf restaurant at the corner of Market Lane & 35th St in Somer, WI
+- Patio with views to retention pond to the west of the property
+- Potential roof top patio.
+- Indoor/outdoor bar.
+- Precedents
+	- [Parlor Pizza](https://www.google.com/maps/place/Parlor+Pizza+Bar+West+Loop/@41.8834887,-87.6493978,18.92z/data=!4m12!1m6!3m5!1s0x880fd2ca73ea67d9:0xc93d741674a1ce32!2sParlor+Pizza+Bar+West+Loop!8m2!3d41.8834277!4d-87.6488209!3m4!1s0x880fd2ca73ea67d9:0xc93d741674a1ce32!8m2!3d41.8834277!4d-87.6488209) in Chicago
+		- White stone wash brick
+		- Dark (bronze) storefront
 
 
 <!--
 
 >The above list is also included in the following online document... 
-
+https://docs.google.com/document/d/125-xQcU_22aZwW-1699Hmp7ui3n38U7tFa5BBfvOMRc/edit
 >
 >Feel free, at any time, to add/modify this document if you have additional thoughts.  This will be a living document throughout the duration of the design. 
 -->
@@ -192,6 +195,20 @@ The following is a breakdown of services and phases we anticipate for your proje
 	        * Elevations
 	        * Sections
 	        * 3D renderings and animations
+	*  At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary.
+	* At the end of this phase we will have enough documentation to share with a contractor to get preliminary budget costs.  As they are preliminary, these estimates will most likely have a margin of error between 10% and 15% percent.  They will be accurate enough, however, to be confident enough to determine the ultimate scope for the next phase--construction documents.
+	    <!--*  If necessary, we will help suggest qualified GCs to help with the estimates.-->
+	* 	Continue to coordinate and eliciting feedback from the various engineering disciplines
+		 <!--* Civil Engineer
+		 * Structural Engineer
+		 * Mechanical Engineer
+		 * Electrical Engineer
+		 * Plumbing Engineer
+		 * Lighting Designer
+		 * Kitchen consultant-->
+
+<!--
+
 	    * Civil
 	       * Storm water management/calculations
 	       * Grading and erosion control plan/details
@@ -203,21 +220,6 @@ The following is a breakdown of services and phases we anticipate for your proje
 		        * Sewer
 		        * Storm
 		        * Fire Hydrant
-	*  At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary.
-	* At the end of this phase we will have enough documentation to share with a contractor to get preliminary budget costs.  As they are preliminary, these estimates will most likely have a margin of error between 10% and 15% percent.  They will be accurate enough, however, to be confident enough to determine the ultimate scope for the next phase--construction documents.
-	    <!--*  If necessary, we will help suggest qualified GCs to help with the estimates.-->
-	* 	Continue to coordinate and eliciting feedback from the various engineering disciplines
-		 * Civil Engineer
-		 * Structural Engineer
-		 * Mechanical Engineer
-		 * Electrical Engineer
-		 * Plumbing Engineer
-		 * Lighting Designer
-		 * Kitchen consultant
-
-<!--
-
-
 
 
 
@@ -235,21 +237,21 @@ The following is a breakdown of services and phases we anticipate for your proje
 
      * Out of all the phases listed in this proposal, the **Construction Document** phase is the most labor intensive.  This is the phase where we dial into the exacting details of the design.  We, along with our consultants,  propose to provide the following construction documents for your project.
 
-        * Civil
-	        * *see list above in Phase 3*
+        <!--* Civil
+	        * *see list above in Phase 3*-->
         * Architectural
 	        * Code summary
 		        * ADA requirements
 		        * Life safety plan
 		        * Emergency and exit sign layouts
-	        <!--* Site plan 
-		        * w/ topography, if elevations were supplied by surveyor-->
-	        <!--* Site plan-->
+	        * Site plan 
+		        <!--* w/ topography, if elevations were supplied by surveyor-->
 	        * Demolition plans, if necessary
 	        * Floor plans
 	        * Finish Plans/Schedules
 	        * Roof Plan
-	        * 	Reflected ceiling plans
+	        * Reflected ceiling plans
+		        * does not include lighting
 			* Building Elevations
 			* Building Sections
 			* Wall Sections
@@ -258,17 +260,18 @@ The following is a breakdown of services and phases we anticipate for your proje
 		        <!--This proposal does not include elevations or details for millwork/casework
 		       * Only includes elevations of ADA restroom layouts.
 		       * We assume you do not need elevations of millwork and interior spaces.-->
-	        * Small scale <!--exterior interior details-->, as necessary
+	        * Small scale<!--exterior interior details-->, as necessary
 	        * Schedules
 		        * Door
 		        * Window
 		        * Finish
+	        * Energy code check (COMcheck for example)
         *  Structural 
 	        * Floor plans with member sizes
 			 * Structural calculations
 			 * Small scale details
 			 * Specifications
-	     * Mechanical
+	     <!--* Mechanical
 	        * Heating/cooling load calculations
 	        * Floor plans locating and sizing of
 		        * Equipment
@@ -447,9 +450,14 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 - Although **we can provide** the following services, we assume either they are not necessary or will be provided by a 3rd party via the GC or directly contracted through you.  *Please lets us know if you would like us to include any of the following.*
 
-
+	- Civil Engineering
+	-  Landscape Design
+	- HVAC/Mechanical Design
+	- Extensive energy modeling beyond prescriptive requirements
+	-  Electrical Design
+		- 	Lighting layout and specification
+	- Plumbing Design
 	- Food Service or Commercial Kitchen Design
-	- Landscape Design
 	- Land Surveying
 	- Low Voltage Design
 	- Audio/Visual Design
@@ -482,27 +490,13 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 <!--
 
-	- Extensive energy modeling beyond prescriptive requirements
-
-
 	- Interior Design
 		- Casework/Millwork elevations & details
 		- small scale interior details
-	- Plumbing Design
-	- HVAC/Mechanical Design
-	- Electrical Design
-
-	- Civil Engineering
-
 
 	- Energy code check (COMcheck for example)
 	- Small scale (3" or 6" = 1'-0") construction details
 	- Reflected ceiling plan
-		- Lighting layout and specification
-
-
-
-
 	- Structural Design
 
 
@@ -615,79 +609,79 @@ To address your potential concerns, if any, we would like to offer the following
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.00%"><font face="Lato">5.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 1: <br>Pre-Design &amp; Programming</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00525" sdnum="1033;0;0.0%"><font face="Lato">0.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="7087.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,088</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00575" sdnum="1033;0;0.0%"><font face="Lato">0.6%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="7762.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,763</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00625" sdnum="1033;0;0.0%"><font face="Lato">0.6%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="8437.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,438</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0038" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="5130" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$5,130</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0043" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="5805" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$5,805</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0048" sdnum="1033;0;0.0%"><font face="Lato">0.5%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="6480" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,480</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">2.0 wks</font></td>
 	</tr>
 	<tr>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.1" sdnum="1033;0;0.00%"><font face="Lato">10.00%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.15" sdnum="1033;0;0.00%"><font face="Lato">15.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 2: <br>Schematic Design</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0105" sdnum="1033;0;0.0%"><font face="Lato">1.1%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="14175" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$14,175</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0115" sdnum="1033;0;0.0%"><font face="Lato">1.2%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="15525" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$15,525</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0125" sdnum="1033;0;0.0%"><font face="Lato">1.3%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="16875" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$16,875</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">3.0 wks</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0114" sdnum="1033;0;0.0%"><font face="Lato">1.1%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="15390" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$15,390</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0129" sdnum="1033;0;0.0%"><font face="Lato">1.3%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="17415" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$17,415</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0144" sdnum="1033;0;0.0%"><font face="Lato">1.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="19440" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$19,440</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="5" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">5.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Lato">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 3: <br>Design Development</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.021" sdnum="1033;0;0.0%"><font face="Lato">2.1%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="28350" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$28,350</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.023" sdnum="1033;0;0.0%"><font face="Lato">2.3%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="31050" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$31,050</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.025" sdnum="1033;0;0.0%"><font face="Lato">2.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="33750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$33,750</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0152" sdnum="1033;0;0.0%"><font face="Lato">1.5%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="20520" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$20,520</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0172" sdnum="1033;0;0.0%"><font face="Lato">1.7%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="23220" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$23,220</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0192" sdnum="1033;0;0.0%"><font face="Lato">1.9%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="25920" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$25,920</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="6" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">6.0 wks</font></td>
 	</tr>
 	<tr>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.4" sdnum="1033;0;0.00%"><font face="Lato">40.00%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.35" sdnum="1033;0;0.00%"><font face="Lato">35.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 4: <br>Construction Documents</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.042" sdnum="1033;0;0.0%"><font face="Lato">4.2%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="56700" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$56,700</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.046" sdnum="1033;0;0.0%"><font face="Lato">4.6%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="62100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$62,100</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.0%"><font face="Lato">5.0%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="67500" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$67,500</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="11" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">11.0 wks</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0266" sdnum="1033;0;0.0%"><font face="Lato">2.7%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="35910" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$35,910</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0301" sdnum="1033;0;0.0%"><font face="Lato">3.0%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="40635" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$40,635</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0336" sdnum="1033;0;0.0%"><font face="Lato">3.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="45360" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$45,360</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="10" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">10.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.00%"><font face="Lato">5.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 5: <br>Bidding &amp; Contract Negotiation</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00525" sdnum="1033;0;0.0%"><font face="Lato">0.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="7087.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,088</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00575" sdnum="1033;0;0.0%"><font face="Lato">0.6%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="7762.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,763</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00625" sdnum="1033;0;0.0%"><font face="Lato">0.6%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="8437.5" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,438</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0038" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="5130" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$5,130</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0043" sdnum="1033;0;0.0%"><font face="Lato">0.4%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="5805" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$5,805</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0048" sdnum="1033;0;0.0%"><font face="Lato">0.5%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="6480" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,480</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">2.0 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="30" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Lato">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Lato">Phase 6: <br>Construction Administration</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.021" sdnum="1033;0;0.0%"><font face="Lato">2.1%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="28350" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$28,350</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.023" sdnum="1033;0;0.0%"><font face="Lato">2.3%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="31050" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$31,050</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.025" sdnum="1033;0;0.0%"><font face="Lato">2.5%</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="33750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$33,750</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0152" sdnum="1033;0;0.0%"><font face="Lato">1.5%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="20520" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$20,520</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0172" sdnum="1033;0;0.0%"><font face="Lato">1.7%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="23220" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$23,220</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0192" sdnum="1033;0;0.0%"><font face="Lato">1.9%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="25920" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$25,920</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Lato">n/a</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="31" align="center" valign="middle" bgcolor="#DDDDDD" sdval="1" sdnum="1033;0;0.00%"><b><font face="Lato">100.00%</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle" bgcolor="#DDDDDD"><b><font face="Lato">All Phases</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.105" sdnum="1033;0;0.0%"><b><font face="Lato">10.5%</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="141750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$141,750</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.115" sdnum="1033;0;0.0%"><b><font face="Lato">11.5%</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="155250" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$155,250</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.125" sdnum="1033;0;0.0%"><b><font face="Lato">12.5%</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="168750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$168,750</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="24" sdnum="1033;0;#,##0.0&quot; wks (Design Only)&quot;"><b><font face="Lato">24.0 wks (Design Only)</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.076" sdnum="1033;0;0.0%"><b><font face="Lato">7.6%</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="102600" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$102,600</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.086" sdnum="1033;0;0.0%"><b><font face="Lato">8.6%</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="116100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$116,100</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.096" sdnum="1033;0;0.0%"><b><font face="Lato">9.6%</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="129600" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$129,600</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="25" sdnum="1033;0;#,##0.0&quot; wks (Design Only)&quot;"><b><font face="Lato">25.0 wks (Design Only)</font></b></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="7" height="17" align="right" valign="middle"><i><font face="Lato" color="#666666">Assuming a Construction Cost (without equipment) = </font></i></td>
@@ -710,10 +704,10 @@ To address your potential concerns, if any, we would like to offer the following
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Architecture</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.06" sdnum="1033;0;0.00%"><font face="Lato">6.00%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="81000" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$81,000</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0657142857142857" sdnum="1033;0;0.00%"><font face="Lato">6.57%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="88714.2857142857" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$88,714</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0714285714285714" sdnum="1033;0;0.00%"><font face="Lato">7.14%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="96428.5714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$96,429</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0678947368421053" sdnum="1033;0;0.00%"><font face="Lato">6.79%</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="91657.8947368421" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$91,658</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0757894736842105" sdnum="1033;0;0.00%"><font face="Lato">7.58%</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="102315.789473684" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$102,316</font></td>
 		<td align="center" valign="middle"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
@@ -721,65 +715,10 @@ To address your potential concerns, if any, we would like to offer the following
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Structural Engineer</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.01" sdnum="1033;0;0.0%"><font face="Lato">1.0%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="13500" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$13,500</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.010952380952381" sdnum="1033;0;0.00%"><font face="Lato">1.10%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="14785.7142857143" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$14,786</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0119047619047619" sdnum="1033;0;0.00%"><font face="Lato">1.19%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="16071.4285714286" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$16,071</font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Lato"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Civil Engineer</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.008" sdnum="1033;0;0.0%"><font face="Lato">0.8%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="10800" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$10,800</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00876190476190476" sdnum="1033;0;0.00%"><font face="Lato">0.88%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="11828.5714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$11,829</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00952380952380952" sdnum="1033;0;0.00%"><font face="Lato">0.95%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="12857.1428571429" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$12,857</font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Lato"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Mechanical Engineer</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.005" sdnum="1033;0;0.0%"><font face="Lato">0.5%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="6750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,750</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00547619047619048" sdnum="1033;0;0.00%"><font face="Lato">0.55%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="7392.85714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,393</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00595238095238095" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8035.71428571429" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,036</font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Lato"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Electrical Engineer</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.005" sdnum="1033;0;0.00%"><font face="Lato">0.50%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="6750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,750</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00547619047619048" sdnum="1033;0;0.00%"><font face="Lato">0.55%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="7392.85714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,393</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00595238095238095" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8035.71428571429" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,036</font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Lato"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Plumbing Engineer</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.005" sdnum="1033;0;0.00%"><font face="Lato">0.50%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="6750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,750</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00547619047619048" sdnum="1033;0;0.00%"><font face="Lato">0.55%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="7392.85714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$7,393</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00595238095238095" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8035.71428571429" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,036</font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Lato"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Lighting</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.006" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,100</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00657142857142857" sdnum="1033;0;0.00%"><font face="Lato">0.66%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8871.42857142857" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,871</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00714285714285714" sdnum="1033;0;0.00%"><font face="Lato">0.71%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="9642.85714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$9,643</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0113157894736842" sdnum="1033;0;0.00%"><font face="Lato">1.13%</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="15276.3157894737" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$15,276</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.0126315789473684" sdnum="1033;0;0.00%"><font face="Lato">1.26%</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="17052.6315789474" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$17,053</font></td>
 		<td align="center" valign="middle"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
@@ -787,24 +726,25 @@ To address your potential concerns, if any, we would like to offer the following
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font face="Lato">Potential Additional Consultants</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.006" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,100</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00657142857142857" sdnum="1033;0;0.00%"><font face="Lato">0.66%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="8871.42857142857" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,871</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00714285714285714" sdnum="1033;0;0.00%"><font face="Lato">0.71%</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="9642.85714285714" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$9,643</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00678947368421053" sdnum="1033;0;0.00%"><font face="Lato">0.68%</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="9165.78947368421" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$9,166</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="0.00757894736842105" sdnum="1033;0;0.00%"><font face="Lato">0.76%</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="10231.5789473684" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$10,232</font></td>
 		<td align="center" valign="middle"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato"><br></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign="middle" bgcolor="#DDDDDD"><b><font face="Lato">Totals</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.105" sdnum="1033;0;0.0%"><b><font face="Lato">10.5%</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="141750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$141,750</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.115" sdnum="1033;0;0.0%"><b><font face="Lato">11.5%</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="155250" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$155,250</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.125" sdnum="1033;0;0.0%"><b><font face="Lato">12.5%</font></b></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="168750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$168,750</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.076" sdnum="1033;0;0.0%"><b><font face="Lato">7.6%</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="102600" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$102,600</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.086" sdnum="1033;0;0.0%"><b><font face="Lato">8.6%</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="116100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$116,100</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.096" sdnum="1033;0;0.0%"><b><font face="Lato">9.6%</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="129600" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Lato">$129,600</font></b></td>
 		<td align="center" valign="middle"><font face="Lato"><br></font></td>
 	</tr>
 </tbody></table>
+
 
 > Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees based on a rough estimated cost of construction, which might not align with your projected budget for the project.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively.  *This assumes your GC will share ongoing construction cost projections throughout all phases of the project.* 
 > 
@@ -838,6 +778,8 @@ To address your potential concerns, if any, we would like to offer the following
 
 
 ## Hourly Rates
+
+
 <table cellspacing="0" border="0">
 	<colgroup width="275"></colgroup>
 	<colgroup span="4" width="90"></colgroup>
@@ -933,174 +875,6 @@ To address your potential concerns, if any, we would like to offer the following
 		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
 	</tr>
 	<tr>
-		<td height="17" align="left" valign="middle"><b><font face="Lato">Civil Engineer</font></b></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdval="0.008" sdnum="1033;0;0.00%"><font face="Lato">0.80%</font></td>
-		<td align="center" valign="middle" sdval="10800" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$10,800</font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer III</font></td>
-		<td align="center" valign="middle" sdval="125" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$125/HR</font></td>
-		<td align="center" valign="middle" sdval="135" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$135/HR</font></td>
-		<td align="center" valign="middle" sdval="145" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$145/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer II</font></td>
-		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
-		<td align="center" valign="middle" sdval="120" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$120/HR</font></td>
-		<td align="center" valign="middle" sdval="130" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$130/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer I</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
-		<td align="center" valign="middle" sdval="120" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$120/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><b><font face="Lato">Mechanical Engineer</font></b></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdval="0.005" sdnum="1033;0;0.00%"><font face="Lato">0.50%</font></td>
-		<td align="center" valign="middle" sdval="6750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,750</font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer III</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer II</font></td>
-		<td align="center" valign="middle" sdval="70" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$70/HR</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer I</font></td>
-		<td align="center" valign="middle" sdval="60" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$60/HR</font></td>
-		<td align="center" valign="middle" sdval="70" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$70/HR</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><b><font face="Lato">Electrical Engineer</font></b></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdval="0.005" sdnum="1033;0;0.00%"><font face="Lato">0.50%</font></td>
-		<td align="center" valign="middle" sdval="6750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,750</font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer III</font></td>
-		<td align="center" valign="middle" sdval="150" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$150/HR</font></td>
-		<td align="center" valign="middle" sdval="160" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$160/HR</font></td>
-		<td align="center" valign="middle" sdval="170" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$170/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer II</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
-		<td align="center" valign="middle" sdval="120" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$120/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer I</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><b><font face="Lato">Plumbing Engineer</font></b></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdval="0.005" sdnum="1033;0;0.00%"><font face="Lato">0.50%</font></td>
-		<td align="center" valign="middle" sdval="6750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$6,750</font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer III</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer II</font></td>
-		<td align="center" valign="middle" sdval="70" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$70/HR</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Engineer I</font></td>
-		<td align="center" valign="middle" sdval="60" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$60/HR</font></td>
-		<td align="center" valign="middle" sdval="70" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$70/HR</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><b><font face="Lato">Lighting</font></b></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdval="0.006" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
-		<td align="center" valign="middle" sdval="8100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,100</font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Skill Level 1</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
-		<td align="center" valign="middle" sdval="120" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$120/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Skill Level 2</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdval="110" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$110/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato">Skill Level 3</font></td>
-		<td align="center" valign="middle" sdval="80" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$80/HR</font></td>
-		<td align="center" valign="middle" sdval="90" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$90/HR</font></td>
-		<td align="center" valign="middle" sdval="100" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$100/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left" valign="middle"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.00%"><font face="Lato"><br></font></td>
-		<td align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato"><br></font></td>
-	</tr>
-	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">Potential Additional Consultants</font></b></td>
 		<td align="center" valign="middle" sdval="0.006" sdnum="1033;0;0.00%"><font face="Lato">0.60%</font></td>
 		<td align="center" valign="middle" sdval="8100" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$8,100</font></td>
@@ -1122,8 +896,8 @@ To address your potential concerns, if any, we would like to offer the following
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">TOTAL</font></b></td>
-		<td align="center" valign="middle" sdval="0.105" sdnum="1033;0;0.0%"><font face="Lato">10.5%</font></td>
-		<td align="center" valign="middle" sdval="141750" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$141,750</font></td>
+		<td align="center" valign="middle" sdval="0.076" sdnum="1033;0;0.0%"><font face="Lato">7.6%</font></td>
+		<td align="center" valign="middle" sdval="102600" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Lato">$102,600</font></td>
 	</tr>
 </tbody></table>
 
@@ -1269,11 +1043,11 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzk0NTAzNywxMjA3NjE1OTgyLC0xNj
-UyNTM0OTE1LC04NTI4OTk1MTYsMTgzNDQzMzU1MywxODQ0OTc3
-MDYsNDk4MjY1MjAwLDIwNjA5ODc1OTEsMTk5MTExMjEyOCwxMz
-cxODk3NzYsLTE3NTg2MzkwOTQsMTU2OTYyNDk1NiwxNzU4OTU4
-NzU5LC0xNTAyNDg3Njc1LDEwOTMyNzY4MjcsMTgxMTE0ODA5NS
-w1MDY1MjI0MTAsNjMwMzMwMDQ0LDE1MTE2MDIxMiwxODM4OTk0
-OTM3XX0=
+eyJoaXN0b3J5IjpbLTIwODcxODQ3NjEsODI2MjMwNTA5LC0xOD
+c3NDAyMDQwLC0xMjQyMDI2MTU0LC0xNzAwMDQ5NDIwLC0xOTg5
+NzA2NTUxLC0xNDQ5MzI5MTcsLTk1MDkwNDAyNywtODYwMDU5OT
+gsLTE1MjgwMjA0MDIsMzQ2MDMzNjMyLDEwMjU2MTEwMjYsMjEy
+OTE3OTU4OCwxNzgzODQwMjU1LDIwMTIzMDEzNzQsMjAzMzk0NT
+AzNywxMjA3NjE1OTgyLC0xNjUyNTM0OTE1LC04NTI4OTk1MTYs
+MTgzNDQzMzU1M119
 -->
