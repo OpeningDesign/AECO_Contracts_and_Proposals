@@ -26,13 +26,12 @@
 ---
 FOR:
 
->Lisa & Cliff Person
->517 Caldy Place
->Madison WI 53711
-
+>Jash Patel
+>514 North Ridge Drive
+>Waunakee, Wisconsin 53597
 
 ---
-Hi Lisa/Cliff,
+Hi Jash,
 
 Was a pleasure chatting the other day. I'm excited about the potential of working together!
 
@@ -40,35 +39,18 @@ Thank you for the opportunity to share the following proposal.
 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, I understand that this 1st phase project will include the following list of requirements/priorities...
 
-- New addition
-	- Master bedroom
-		- with possible door to exterior patio
-		- built-in night stands next to bed
-	- Master bath
-	- Walk-in closet
-	- Storage
-	- Entry Way/closet
-	- porch at entry
-- 3 season porch
-	- 2 sided gas fire place
-	- explore relocation of door to porch
-- Redo Kitchen
-	- Liquor cabinet
-	- Beer fridge
-- Rework laundry room
-- Relocate furnace to crawlspace
-- New siding throughout
-	- Darker to 'hide' dust
-- New windows throughout
-- Convert Bedroom#2 to an office
-- New flooring throughout
-- Expand garage for storage
-	- Look to possibility connect garage to house
-- Look and feel
-	- "Modern Country"
-	- no white cabinets
-	- new trim to match existing trim color
-- Try to relocate kitchen cabinets elsewhere
+- 2600sf home
+	- SF does not include basement or garage
+- 2 Stories tall
+- Nice large kitchen
+- (3) bedrooms total including the master bedroom
+	- (2) bedrooms upstairs
+- Master bedroom on the 1st floor
+	- Walk in closets
+	- dedicated bathroom
+- Looking for a design similar to
+	- [https://www.movoto.com/waunakee-wi/1409-danbury-bay-waunakee-wi-53597/pid_xla36l0gqh/](https://www.movoto.com/waunakee-wi/1409-danbury-bay-waunakee-wi-53597/pid_xla36l0gqh/)
+
 
 <!--
 
@@ -91,12 +73,12 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 	* Conduct zoning & building code analysis & summary
 	* Measure, model, and draft up the existing conditions relative to the scope of work.  
-	* Although not crucial,  <!-- in these earlier phases--> it's best practice to supply an official survey of the site, <!-- as early as possible--> as it assures the proposed design, as it is laid out on the site, is based on accurate information.  It eliminates the potential for any surprises and rework further down the line.
+	* This proposal does not include a site survey--which we will need for this project. We assume a survey of the existing site (CAD format) will by supplied by a 3rd party surveyor. 
 		* Ideally, the survey would include:
 			* building in relation to property lines
 			* easements
 			* utility locations
-			* topographical elevations
+			* topographical elevations (especially important considering how hilly the site is)
 	* Provide (2) diagrammatic floor plan options which will explore ideal layout and adjacencies of the various spaces throughout the project, as well, as their relation to the site.  These design options will address varying approaches in the following criteria.
 	    * Functional relationship of the various spaces
 	    * Code restrictions/requirements
@@ -111,8 +93,10 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 <!--
 
-If the main building architect can supply an existing CAD/BIM file, less effort would be necessary for this phase.	This proposal does not include a site survey--which we will need for this scope of work. We assume a survey of the existing site (CAD format) will by supplied by a 3rd party surveyor. 
+Although not crucial,   in these earlier phases it's best practice to supply an official survey of the site, as early as possible as it assures the proposed design, as it is laid out on the site, is based on accurate information.  It eliminates the potential for any surprises and rework further down the line.
 
+
+If the main building architect can supply an existing CAD/BIM file, less effort would be necessary for this phase.	
 
 -----------------------------------------------------------------------------------------------------------------------
     * Civil
@@ -821,10 +805,6 @@ otherwise prohibited by law.* -->
 ---
 
 
-
-
-
-
 I <!-- We [(OpeningDesign)](http://openingdesign.com/) --> sincerely appreciate the opportunity to submit this proposal and look forward to the potential of a fruitful collaboration in the future.
 
 
@@ -848,7 +828,7 @@ Madison, Wisconsin 53703
 
 
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -858,27 +838,19 @@ Madison, Wisconsin 53703
 
 * Please indicated preferred Fee Proposal Option (**A**, **B**, or **C**):
 
-
 ---
-
 
 * Signature
 
-
 ---
-
 
 * Title
 
-
 ---
-
 
 * Date
 
-
 ---
-
 
 
 ### License
@@ -896,11 +868,11 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMxNjM5NzEsLTEzNTAxOTE5MjUsMT
-M0NTg5ODU4MywtNTkxOTAxODAxLDIzOTY3MTg2NCw1OTgwOTc1
-OTYsLTE1OTY4ODUwNTUsOTE3MzY1MzAxLC0yMTQ4MjM4NTQsLT
-UwMDUyMTUxOSwyMDI1Nzg1ODE1LDQ2OTYxODE4MSwtMTEyNjA3
-Mjc3OCwtOTczMDgwMzM2LDIxMzIyMDQyMjUsLTY0MTUyNTA5MC
-wxNzA4ODMzOTQsMTM3MTQyNzcwMCwxNDcxNTIzOTc3LC0xNjAw
-Njk3NzU3XX0=
+eyJoaXN0b3J5IjpbMTU0NTA5ODAyNiwtNjYzMzcwMDE4LDE0NT
+EwNTYyNzgsLTQzNzM2NzAwOCwtMTI0MzE2Mzk3MSwtMTM1MDE5
+MTkyNSwxMzQ1ODk4NTgzLC01OTE5MDE4MDEsMjM5NjcxODY0LD
+U5ODA5NzU5NiwtMTU5Njg4NTA1NSw5MTczNjUzMDEsLTIxNDgy
+Mzg1NCwtNTAwNTIxNTE5LDIwMjU3ODU4MTUsNDY5NjE4MTgxLC
+0xMTI2MDcyNzc4LC05NzMwODAzMzYsMjEzMjIwNDIyNSwtNjQx
+NTI1MDkwXX0=
 -->
