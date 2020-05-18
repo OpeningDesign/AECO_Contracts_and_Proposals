@@ -701,9 +701,24 @@ The following table outlines the (3) various fee options. They are not-to-exceed
 > 
 >Please note these not-to-exceed fees do not include reimbursable expenses.
 >
-<!--> Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees based on a rough estimated cost of construction, which might not align with your projected budget for the project.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively.  *This assumes your GC will share ongoing construction cost projections throughout all phases of the project.* -->
-<!--> Please note, these not-to-exceed fees are based on the percentages of projected construction costs at any particular point in the project.  For example, if a project starts out with projected costs of (X), but the scope is cut in half later in the project, the fees for that earlier phase will still be based on (X).  We also assume your GC will share ongoing construction cost projections throughout all phases of the project.-->
-<!-->By using hourly rates and not-to-exceed fees based on percentages of construction, we have found this to be a win-win for both parties.  The design professionals are given a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  In addition, clients are able to adjust, on the fly, what types of services they might or might not need as the project unfolds.-->
+<!--
+
+> Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees based on a rough estimated cost of construction, which might not align with your projected budget for the project.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively.  *This assumes your GC will share ongoing construction cost projections throughout all phases of the project.* 
+
+-->
+
+
+<!--
+
+> Please note, these not-to-exceed fees are based on the percentages of projected construction costs at any particular point in the project.  For example, if a project starts out with projected costs of (X), but the scope is cut in half later in the project, the fees for that earlier phase will still be based on (X).  We also assume your GC will share ongoing construction cost projections throughout all phases of the project.
+
+-->
+
+<!--
+
+By using hourly rates and not-to-exceed fees based on percentages of construction, we have found this to be a win-win for both parties.  The design professionals are given a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  In addition, clients are able to adjust, on the fly, what types of services they might or might not need as the project unfolds.
+
+-->
 
  
 
