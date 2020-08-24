@@ -1,12 +1,10 @@
 
-
-
-
-
-
-<p align="right" style="" >
-<img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Logos/od_icon_logo_2.jpg" width="120px"/>
+<div align="right" >
+<p align="right" >
+<img src="https://raw.githubusercontent.com/OpeningDesign/OD_Marketing/master/Logos/od_icon_logo_2.jpg" width="120px"/>
 </p>
+</div>
+
 
 
 
@@ -17,7 +15,6 @@
 <!--
 <img align="left" src="https://dl.dropbox.com/s/ld45z2d8r58nri5/River%20Valley%20Ranch%20-%20Cover%20Image.png?dl=0" width="550px">
 -->
-<br>
 
 
 #### Proposal for [OpeningDesign's](http://openingdesign.com/) Architecture & Engineering Services
@@ -26,13 +23,13 @@
 ---
 FOR:
 
->Sarah Slack and John Porco
->6434 Sunset Dr
->Verona, WI 53593
+>Kate & Andy Schieldt
+>2388 County Rd. AB
+>Mcfarland WI 53558 
 
 
 ---
-Hi Sarah and John,
+Hi Kate & Andy,
 
 Was a pleasure chatting the other day. I'm excited about the potential of working together!
 
@@ -40,19 +37,8 @@ Thank you for the opportunity to share the following proposal.
 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, I understand that this 1st phase project will include the following list of requirements/priorities...
 
-- Create a more open kitchen
-	- with open island
-	- Include a pantry area of a similar size to the existing
-- Relocate half bath and mudroom
-	- most likely toward the garage area
-- Relocate master bedroom
-	- Most likely above the garage
-	- With an adjacent master bath
-	- An adjacent office
-		- big enough to accommodate 2 work areas.
-	- Walk-in closets
-- Possible rework of Garage
-	- Overhead garage door
+- Explore the potential to either renovate, or build anew, the boat house to accommodate an outside bar, and potentially more storage
+- Explore the possibility of an extension to the house toward the lake.  If that doesn't work, possibility look at some type of extension northward toward the road.
 
 
 <!--
@@ -76,7 +62,6 @@ The following is a breakdown of services and phases we anticipate for your proje
 
 	* Conduct zoning & building code analysis & summary
 	* Measure, model, and draft up the existing conditions relative to the scope of work.  
-		* The existing blueprints you provided will streamline this task
 	* Provide (2) diagrammatic floor plan options which will explore ideal layout and adjacencies of the various spaces throughout the project, as well, as their relation to the site.  These design options will address varying approaches in the following criteria.
 	    * Functional relationship of the various spaces
 	    * Code restrictions/requirements
@@ -88,22 +73,21 @@ The following is a breakdown of services and phases we anticipate for your proje
 	    * Daylighting
 	    * Existing site layout
 	    * System Furniture
-
-<!--
-
 	* This proposal does not include a site survey--which we will need for this project. We assume a survey of the existing site (CAD format) will by supplied by a 3rd party surveyor. 
 		* Ideally, the survey would include:
 			* property lines with metes and bounds
 			* easements
 			* utility locations
-			* topographical elevations (especially important considering how hilly the site is)
+			* topographical elevations
 
 
-
+<!--
 Although not crucial,   in these earlier phases it's best practice to supply an official survey of the site, as early as possible as it assures the proposed design, as it is laid out on the site, is based on accurate information.  It eliminates the potential for any surprises and rework further down the line.
 
 
 If the main building architect can supply an existing CAD/BIM file, less effort would be necessary for this phase.	
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
     * Civil
@@ -185,18 +169,20 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
     * Here we <!--, along with our consultants,--> will dial into one design by either refining one of the proposed designs and/or combining the desired aspects of the other design(s) proposed.
     * Developed deliverables will include:
        * Architecture
-	       <!--* Site Plan
-		       * Will use supplied 3rd party survey, if provided-->
+	       * Site Plan
+		       * Will use supplied 3rd party survey
 	        * Floor Plans
 	        * Demolition plans<!--, if applicable-->
 	        * Elevations
 	        * Sections
 	        * 3D renderings and animations
+	* At the end of this phase we highly recommend sharing these drawings with your preferred contractor to get preliminary estimates.  Although the drawings are still somewhat 'schematic' at this stage, they will be developed enough for your contractor to provide you with a ballpark estimate.  Although this estimate will have a margin of error, being based on drawing that are not 100% complete, with an experienced general contractor, it should be accurate enough to determine if the planned scope is financially feasible and if so, whether it makes sense to move forward developing and detailing out the design in the more time intensive 4th phase--Construction Documents.
+	*  At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary.
 
 
 <!--
 
-	* At the end of this phase we highly recommend sharing these drawings with your preferred contractor to get preliminary estimates.  Although the drawings are still 'schematic' at this stage, they will be developed enough for your contractor to provide you with a ballpark estimate.  Although this estimate will have a margin of error, being based on schematic drawings, with an experienced general contractor, it should be accurate enough to determine if the planned scope is financially feasible and if so, whether it makes sense to move forward developing and detailing out the design in the more time intensive 4th phase--Construction Documents.
+
 
 
 	    *  If necessary, we will help suggest qualified GCs to help with the estimates.
@@ -208,8 +194,6 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
 		 * Plumbing Engineer
 		 * Lighting Designer
 		 * Kitchen consultant
-
-	*  At the end of this phase we should have sufficient documentation to achieve any type of local zoning and/or site permits that may be necessary.
 
 
 	    * Civil 
@@ -278,18 +262,19 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
 
 
 
+
+
+
+
+
 <!--
 
-
-> Please see the section called **Services not included** in the proposal below to determine if you would like us to include any of those services listed there.
->
 >Please note, the more detailed the construction documents are, the 1) the more accurate the GC's numbers will be and 2) the less surprises there will be as to what finally gets built.  However, as one can imagine, the more detailed the drawings, the higher the design fees and the longer it takes to develop them.
 >
->In this light, as with most construction projects we have worked on, our clients end up dialing into a balance. That is, spending *just enough* on design fees to get an estimate that is *just good enough.*-- with the understanding that some of the details will be worked out with the contractors and OpeningDesign  along the way, and that there might be a few surprises, budgetary, or otherwise, that might pop up as well.
+>In this light, as with most construction projects we have worked on, our clients end up dialing into a balance. That is, spending *just enough* on design fees to get an estimate that is *just good enough.*-- with the understanding that some of the details will be worked out with the contractors and OpeningDesign  along the way.
 >
->If, however, you prefer more thorough documentation, with less surprises, please let us know--as we will adjust this proposal in that regard.
+>If, however, you prefer more thorough documentation, please let us know--as we will adjust this proposal in that regard.
 >
-
 
 
 * Mechanical
@@ -433,10 +418,12 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
 	    * Material/Product substitutions proposed by the GC
 	    * Change orders
     * Develop punch list, if necessary
-    * 	There are times our clients will make changes after the permit was issued.  If small enough, we can usually subsume them into the base bid, however, if they become big enough we will let you know and issue a not-to-exceed change order, for your approval, before any work is done.  If, however, you decide at a later time, to reissue for a revised permit with these changes, any additional work required by the AHJ for this revised permit will be charged at an hourly rate per the enclosed billing rate schedule.
+
+
 
 <!--
-* All disciplines will
+    * 	There are times our clients will make changes after the permit was issued.  If small enough, we can usually subsume them into the base bid, however, if they become big enough we will let you know and issue a not-to-exceed change order, for your approval, before any work is done.  If, however, you decide at a later time, to reissue for a revised permit with these changes, any additional work required by the AHJ for this revised permit will be charged at an hourly rate per the enclosed billing rate schedule.
+	    * Although we will make ever effort to make the requested changes code compliant, if you instruct your GC to implement any post-permit changes before receiving the revised permit, OpeningDesign can not assume any liability for any rework that might result from drawings that are not code compliant upon re-review.  Since the building code is multifaceted and, at times, open to interpretation, we require the approval of the governing body, as well, to manage our risk of liability.
 
 ---
 
@@ -464,8 +451,12 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
 
 - Although **we can provide** the following services, we assume either they are not necessary or will be provided by a 3rd party via the GC or directly contracted through you.  *Please lets us know if you would like us to include any of the following.*
 
-	- Site Plan
 	- Civil engineering
+		- If the percentage of impervious surfaces on the site is proposed to go above Dane County's prescriptive requirements, we will need to consult with a civil engineer to development the following drawings/calculations
+	       * Storm water management/calculations
+	       * Grading and erosion control plan/details
+		    * Site stabilization details/methods.
+		    * Sediment control measures
 	- Landscape design
 	- Casework/millwork elevations & details
 	- Interior design
@@ -510,7 +501,7 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
 
 
 <!--
-
+	- Site Plan
 	- Reflected ceiling plan
 	- Structural Design
 
@@ -523,7 +514,7 @@ If the main building architect can supply an existing CAD/BIM file, less effort 
 
 <!--
 
-## OpeningDesign's Aesethetic Leanings
+## OpeningDesign's Aesthetic Leanings
 
 
 We have found over the years, one of the hallmarks of a successful and unique project, is when the client and the architect are both vested and excited about the design.
@@ -593,7 +584,7 @@ To address your potential concerns, if any, we would like to offer the following
 > ##### Also, feel free to visit our *[OpeningDesign.com/about/](http://openingdesign.com/about/)* page.  It provides a little more information about these open approaches, as well.
 
 
-<br><br><br><br>
+
 
 
 ## Not-to-Exceed Fee Proposal Options (**A**, **B**, or **C**):
@@ -603,122 +594,138 @@ The following table outlines the (3) various fee options. They are not-to-exceed
 <table cellspacing="0" border="0">
 	<colgroup width="94"></colgroup>
 	<colgroup width="236"></colgroup>
-	<colgroup span="6" width="90"></colgroup>
+	<colgroup span="2" width="90"></colgroup>
+	<colgroup width="10"></colgroup>
+	<colgroup span="2" width="90"></colgroup>
+	<colgroup width="10"></colgroup>
+	<colgroup span="2" width="90"></colgroup>
 	<tbody><tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" rowspan="2" height="60" align="center" valign="middle"><b><font face="Century Gothic">%</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" rowspan="2" align="center" valign="middle"><b><font face="Century Gothic">Phase</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="2" align="center" valign="middle"><b><font face="Century Gothic">Approach  (A)</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="2" align="center" valign="middle"><b><font face="Century Gothic">Approach  (B)</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="2" align="center" valign="middle"><b><font face="Century Gothic">Approach (C)</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="2" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">Approach  (A)</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic"><br></font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="2" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">Approach  (B)</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic"><br></font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" colspan="2" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">Approach (C)</font></b></td>
 		</tr>
 	<tr>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">Not-To-Exceed</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic">Rough % of Const. Costs</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic">Estimated Duration</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">Not-To-Exceed</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic"><br></font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic">Rough % of Const. Costs</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic">Estimated Duration</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">Not-To-Exceed</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic"><br></font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic">Rough % of Const. Costs</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle"><b><font face="Century Gothic">Estimated Duration</font></b></td>
 	</tr>
 	<tr>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Century Gothic">20.00%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.1" sdnum="1033;0;0.00%"><font face="Century Gothic">10.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Century Gothic">Phase 1: <br>Pre-Design &amp; Programming</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1980" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$1,980</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0055" sdnum="1033;0;0.0%"><font face="Century Gothic">0.6%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">1.0 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2340" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,340</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0065" sdnum="1033;0;0.0%"><font face="Century Gothic">0.7%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1.3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">1.3 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2700" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,700</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.0075" sdnum="1033;0;0.0%"><font face="Century Gothic">0.8%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1.65" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">1.7 wks</font></td>
 	</tr>
 	<tr>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.15" sdnum="1033;0;0.00%"><font face="Century Gothic">15.00%</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.25" sdnum="1033;0;0.00%"><font face="Century Gothic">25.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Century Gothic">Phase 2: <br>Schematic Design</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1485" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$1,485</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.01375" sdnum="1033;0;0.0%"><font face="Century Gothic">1.4%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">2.0 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1755" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$1,755</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.01625" sdnum="1033;0;0.0%"><font face="Century Gothic">1.6%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2.6" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">2.6 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2025" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,025</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.01875" sdnum="1033;0;0.0%"><font face="Century Gothic">1.9%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="3.3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">3.3 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Century Gothic">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Century Gothic">Phase 3: <br>Design Development</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1980" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$1,980</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.011" sdnum="1033;0;0.0%"><font face="Century Gothic">1.1%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">2.0 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2340" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,340</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.013" sdnum="1033;0;0.0%"><font face="Century Gothic">1.3%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2.6" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">2.6 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2700" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,700</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.015" sdnum="1033;0;0.0%"><font face="Century Gothic">1.5%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="3.3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">3.3 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Century Gothic">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Century Gothic">Phase 4: <br>Construction Documents</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1980" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$1,980</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.011" sdnum="1033;0;0.0%"><font face="Century Gothic">1.1%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">2.0 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2340" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,340</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.013" sdnum="1033;0;0.0%"><font face="Century Gothic">1.3%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="2.6" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">2.6 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2700" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,700</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.015" sdnum="1033;0;0.0%"><font face="Century Gothic">1.5%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="3.3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">3.3 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.05" sdnum="1033;0;0.00%"><font face="Century Gothic">5.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Century Gothic">Phase 5: <br>Bidding &amp; Contract Negotiation</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="495" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$495</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00275" sdnum="1033;0;0.0%"><font face="Century Gothic">0.3%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">1.0 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="585" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$585</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00325" sdnum="1033;0;0.0%"><font face="Century Gothic">0.3%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1.3" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">1.3 wks</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="675" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$675</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.00375" sdnum="1033;0;0.0%"><font face="Century Gothic">0.4%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="1.65" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">1.7 wks</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="34" align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.00%"><font face="Century Gothic">20.00%</font></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle"><font face="Century Gothic">Phase 6: <br>Construction Administration</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="1980" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$1,980</font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.011" sdnum="1033;0;0.0%"><font face="Century Gothic">1.1%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">n/a</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2340" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,340</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.013" sdnum="1033;0;0.0%"><font face="Century Gothic">1.3%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">n/a</font></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="2700" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><font face="Century Gothic">$2,700</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic"><br></font></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" sdval="0.015" sdnum="1033;0;0.0%"><font face="Century Gothic">1.5%</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdnum="1033;0;#,##0.0&quot; wks&quot;"><font face="Century Gothic">n/a</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" height="62" align="center" valign="middle" bgcolor="#DDDDDD" sdval="1" sdnum="1033;0;0.00%"><b><font face="Century Gothic">100.00%</font></b></td>
 		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="left" valign="middle" bgcolor="#DDDDDD"><b><font face="Century Gothic">All Phases</font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="9900" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">$9,900</font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.055" sdnum="1033;0;0.0%"><b><font face="Century Gothic">5.5%</font></b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="8" sdnum="1033;0;#,##0.0&quot; wks &quot;"><b><font face="Century Gothic">8.0 wks </font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="11700" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">$11,700</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdnum="1033;0;#,##0.0&quot; wks &quot;"><b><font face="Century Gothic"><br></font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.065" sdnum="1033;0;0.00%"><b><font face="Century Gothic">6.50%</font></b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="10.4" sdnum="1033;0;#,##0.0&quot; wks &quot;"><b><font face="Century Gothic">10.4 wks </font></b></td>
-		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="13500" sdnum="1033;0;[$$-409]#,##0;-[$$-409]#,##0"><b><font face="Century Gothic">$13,500</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdnum="1033;0;#,##0.0&quot; wks &quot;"><b><font face="Century Gothic"><br></font></b></td>
+		<td style="border-top: 1px solid #666666; border-bottom: 1px solid #666666; border-left: 1px solid #666666; border-right: 1px solid #666666" align="center" valign="middle" bgcolor="#DDDDDD" sdval="0.075" sdnum="1033;0;0.00%"><b><font face="Century Gothic">7.50%</font></b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#DDDDDD" sdval="13.2" sdnum="1033;0;#,##0.0&quot; wks &quot;"><b><font face="Century Gothic">13.2 wks </font></b></td>
 	</tr>
-	<tr>
-		<td colspan="13" height="39" align="right" valign="middle"><font face="Century Gothic"><br></font></td>
-		</tr>
 </tbody></table>
 
 
 > The **Hourly Rates**, called out below, will apply until this not-to-exceed fee is reached.
 > 
-> The not-to-exceed fee is applied to the entire project fee, and not the individual fees associated with each discipline.
+> Please note, these not-to-exceed fees are based on the percentages of projected construction costs at any particular point in the project.  For example, if a project starts out with projected costs of 'X', but the scope is cut in half later in the project, the fees for that earlier phase will still be based on 'X'.  We also assume your GC will share ongoing construction cost projections throughout all phases of the project. 
 > 
->Please note these not-to-exceed fees do not include reimbursable expenses.
+> Please note the not-to-exceed fee is applied to the entire project fee, and not the individual fees associated with each discipline and does do not include reimbursable expenses.
 >
+> By using hourly rates and not-to-exceed fees based on percentages of construction, we have found this to be a win-win for both parties.  The design professionals are given a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  In addition, clients are able to adjust, on the fly, what types of services they might or might not need as the project unfolds, thus avoiding tedious renegotiation.
+> 
+
 <!--
 
-> Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees based on a rough estimated cost of construction, which might not align with your projected budget for the project.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively.  *This assumes your GC will share ongoing construction cost projections throughout all phases of the project.* 
+> Please note, these are not **lump sum** fees, but are instead, **not-to-exceed** fees based on a rough estimated cost of construction, which might not align with your projected budget for the project.  If the project costs go down/up, or less/more scope is involved over time, these fee ceilings will adjust relatively.  
 
 -->
 
 
-<!--
 
-> Please note, these not-to-exceed fees are based on the percentages of projected construction costs at any particular point in the project.  For example, if a project starts out with projected costs of (X), but the scope is cut in half later in the project, the fees for that earlier phase will still be based on (X).  We also assume your GC will share ongoing construction cost projections throughout all phases of the project.
 
--->
 
-<!--
 
-By using hourly rates and not-to-exceed fees based on percentages of construction, we have found this to be a win-win for both parties.  The design professionals are given a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  In addition, clients are able to adjust, on the fly, what types of services they might or might not need as the project unfolds.
 
--->
 
  
 
@@ -733,7 +740,6 @@ By using hourly rates and not-to-exceed fees based on percentages of constructio
 
 
 
-<br><br><br>
 
 ## Hourly Rates
 
@@ -751,9 +757,9 @@ By using hourly rates and not-to-exceed fees based on percentages of constructio
 		</tr>
 	<tr>
 		<td height="17" align="left" valign="middle"><font face="Century Gothic">Principal</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
 		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$85/HR</font></td>
-		<td align="center" valign="middle" sdval="115" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$115/HR</font></td>
+		<td align="center" valign="middle" sdval="95" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$95/HR</font></td>
+		<td align="center" valign="middle" sdval="125" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$125/HR</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left" valign="middle"><font face="Century Gothic">Project Architect</font></td>
@@ -796,7 +802,7 @@ For your reference and peace of mind, please review the following 3rd party docu
 
 
 
-As you will see relative to the suggested fees outlined in these documents, our fees are competitive in comparison.  We are confident that through our unique and open way of working and our strong band of collaborators and consultants, that that we will meet and exceed the industry standard of care.
+As you will see relative to the suggested fees outlined in these documents, our fees are competitive in comparison.  We are confident that through our unique and open way of working and our strong band of collaborators and consultants, that that we will meet and exceed the industry's standard of care.
 
 
 ---
@@ -851,25 +857,27 @@ Finally, please don't hesitate to contact me should you have any questions or ne
 
 Kind Regards,
 
-<img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Signatures/signature.jpg" width="200px"/>
+<img src="https://dl.dropboxusercontent.com/s/wwm6lvp04kvj6cn/signature.png?dl=0" width="200px"/>
 
 Ryan Schultz
 ryan.schultz@openingdesign.com
 773.425.6456
-316 W Washington Ave | #675
+17 S. Fairchild, FL 7
 Madison, Wisconsin 53703
 
 
 
 <br>
-
+<br>
+<br>
+<br>
 
 
 
 ### Authorized by:
 
 
-* Please indicated preferred Fee Proposal Option (**A**, **B**, or **C**):
+* Please indicate preferred Fee Proposal Option (**A**, **B**, or **C**):
 
 ---
 
@@ -885,8 +893,11 @@ Madison, Wisconsin 53703
 
 ---
 
+<br>
+<br>
+<br>
 
-### License
+###  License
 
 Per usual, unless otherwise noted, all content associated with [OpeningDesign](http://openingdesign.com) projects is licensed under an open source, 'copyleft' license: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) ![Attribution-ShareAlike 4.0 International](http://i.creativecommons.org/l/by-sa/3.0/88x31.png).  Attribution to be given to the entire team associated with the project.
 
@@ -901,11 +912,11 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTg1Mjg2NSwxNTU4ODYzMzE1LDgwMz
-IyNjAyNyw5MjAzODQyNjksLTEzMTk0NDcyMjEsLTIxMTAwNjU3
-MjUsLTkzODAyNjYxNywtMTgxMDcwMzUsNTUzMjUxNjk5LC0xMT
-Q3Njk4MjgyLDU0ODY5NDM0NiwtNTYxNTM1NjUzLC0xNzY5Njg0
-Njk1LC0xOTYwMjg1OTgzLC0xOTM0ODI0NzU2LDE1NDUwOTgwMj
-YsLTY2MzM3MDAxOCwxNDUxMDU2Mjc4LC00MzczNjcwMDgsLTEy
-NDMxNjM5NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDYxNjMyMDAsLTIwMjIzNTI0ODYsMj
+UzNjE3OTU4LC05ODA5OTQxMjQsLTEwMzY2NTA1NjAsOTQ0NDcz
+OTA1LDIwODg4NzU3ODcsNzU3MjY0MzUxLC0zMTQ3Mjc1NjUsLT
+I5NjUyMTkwMiw2ODcxMjgwMDEsMTkxMzQ3OTg3NiwtMjcyNjQ4
+OTU4LDE1OTU4NjMzNiwtMTY3NDcyMjczNywyMTY0MTEwOSwtMj
+A0MzgwMzA5NywtNzQxODUyODY1LDE1NTg4NjMzMTUsODAzMjI2
+MDI3XX0=
 -->
