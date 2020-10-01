@@ -1020,7 +1020,6 @@ Madison, Wisconsin 53703
 ### Authorized by:
 
 * Please indicate your preferred Fee Proposal Option **(A) Fully Open Approach**, **(B) Anonymous Open Approach**, or **&#40;C) Traditional Approach**  below.  
-<br>
 	* All Phases ( ☐ A ) ( ☐ B ) ( ☐ C )
 		* Or, if you prefer, you can choose the fee option per phase.  Some clients, for example, might choose option **&#40;C)** until they buy the land and/or get zoning approval , after which, switch to option **(A)**.
 			* Phase 1 - Programming ( ☐ A ) ( ☐ B ) ( ☐ C )
@@ -1064,11 +1063,11 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMjA2NDMwLDc2ODgzMjgyLC0xNzIzOD
-cyNzYyLDIzNjAyMzIwNSwxMzY5NTU2MjY3LC0xNDgyODcxMDA5
-LDM0MTg5NzY5LC02OTQzODI3NzMsLTEzOTM1MDM0MzEsLTg0OT
-I1MzI2NSwtMTIwMzc5MDk4MywxNTI3NTcyNTk3LC0xNzI0OTQ5
-MDU0LC0xNDI1NTk0OTQ4LC0xOTc5ODE5NTUyLC0xOTE3NTYyMj
-c5LC0zNjU1NDM1NzIsLTEzOTQwNjA4NiwtMTQ5MzkyMDEyOCwt
-MTc0OTE4MDIxOV19
+eyJoaXN0b3J5IjpbLTE5MDg2NDAzNTgsNjkyMjA2NDMwLDc2OD
+gzMjgyLC0xNzIzODcyNzYyLDIzNjAyMzIwNSwxMzY5NTU2MjY3
+LC0xNDgyODcxMDA5LDM0MTg5NzY5LC02OTQzODI3NzMsLTEzOT
+M1MDM0MzEsLTg0OTI1MzI2NSwtMTIwMzc5MDk4MywxNTI3NTcy
+NTk3LC0xNzI0OTQ5MDU0LC0xNDI1NTk0OTQ4LC0xOTc5ODE5NT
+UyLC0xOTE3NTYyMjc5LC0zNjU1NDM1NzIsLTEzOTQwNjA4Niwt
+MTQ5MzkyMDEyOF19
 -->
