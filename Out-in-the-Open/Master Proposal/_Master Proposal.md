@@ -9,14 +9,6 @@
 
 
 
-
-
-
-<!--
-<img align="left" src="https://dl.dropbox.com/s/ld45z2d8r58nri5/River%20Valley%20Ranch%20-%20Cover%20Image.png?dl=0" width="550px">
--->
-
-
 ### Proposal for [OpeningDesign's](http://openingdesign.com/) Architecture & Engineering Services
 
 
@@ -580,8 +572,9 @@ To address your potential concerns, if any, we would like to offer the following
 			 * (CAD/BIM) files can be found [here](https://github.com/OpeningDesign/Open_Source_Metal_Building).
 ### Approach C
  * **Approach &#40;C): The Traditional Approach** where all documentation, and clients involved, remains confidential and private.   Per industry norm, the architect and the architect’s consultants are deemed the authors and owners of their respective [Instruments of Service](https://corporate.findlaw.com/intellectual-property/llp-owner-vs-architect-who-owns-the-design.html), and they retain all common law and statutory rights, including copyright.
-	 * A vast majority of our clients choose Approach A or B, but we provide this approach for those clients who might not, for competitive reasons, share their plans publicly.  For example, a data center client might opt for this more confidential/private approach, as the design of their data center is a key asset to their business model.
+	 * A vast majority of our clients choose Approach A or B, but we provide this approach for those clients who might not, for competitive reasons, share their plans publicly.  For example, a data center client might opt for this more confidential/private approach, as the design of their data center is a key asset to their business model. Another example, is a client that would like to keep their project confidential until they acquire the land and/or zoning approval, then switch to a more open approach later in the project.
 
+#### Things kept private...
 > - Please note, no matter which approach (A, B, or C) is used above...
 > 	-  Any documentation from parties outside this contract, and/or shared with OpeningDesign prior and during the execution of this contract, **WILL NOT** be shared publicly.
 > 	- Any prior emails, or any emails between you, OpeningDesign, or any other parties during the duration of the project, **WILL NOT** be shared publicly.
@@ -960,11 +953,11 @@ Per usual, unless otherwise noted, all content associated with [OpeningDesign](h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTYyMTQyNywtMjc0MjQxOTQwLDI0OT
-MxMTM2NywtNTcwNjAwMzE2LC0zOTYyOTE4OTcsLTE1MDExMzEw
-NzUsLTk4NTU1OTY4MSwtMTczNzgzNTc4NywtMTM1ODQwNDE4NS
-wxMjEwNDI4NjA2LC00MjYxNjgzNzgsMTQ0MjQ1NDUyMCwxODAw
-NzA3ODc1LC0xMTgxMzgwNTM4LC02MDQ0MzQyMiwtMTI4NTcxOT
-U0NSwxOTgyMTEzMzQ2LDE1OTYzNTAwODYsMjEwNjIxNTg0OSwt
-MTkwODY0MDM1OF19
+eyJoaXN0b3J5IjpbLTIwMDY0Njc0NTEsMTQ5MjkwNTc0OSw1MD
+Q3NDUxMTIsMTU2MTYyMTQyNywtMjc0MjQxOTQwLDI0OTMxMTM2
+NywtNTcwNjAwMzE2LC0zOTYyOTE4OTcsLTE1MDExMzEwNzUsLT
+k4NTU1OTY4MSwtMTczNzgzNTc4NywtMTM1ODQwNDE4NSwxMjEw
+NDI4NjA2LC00MjYxNjgzNzgsMTQ0MjQ1NDUyMCwxODAwNzA3OD
+c1LC0xMTgxMzgwNTM4LC02MDQ0MzQyMiwtMTI4NTcxOTU0NSwx
+OTgyMTEzMzQ2XX0=
 -->
